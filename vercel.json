@@ -1,0 +1,32 @@
+{
+    "version": 2,
+    "name": "arkahub-energygrid",
+    "builds": [
+        {
+            "src": "mock-api/server.js",
+            "use": "@vercel/node"
+        },
+        {
+            "src": "public/**/*",
+            "use": "@vercel/static"
+        }
+    ],
+    "rewrites": [
+        {
+            "source": "/device/real/query",
+            "destination": "/mock-api/server.js"
+        },
+        {
+            "source": "/api/(.*)",
+            "destination": "/mock-api/server.js"
+        },
+        {
+            "source": "/",
+            "destination": "/public/index.html"
+        },
+        {
+            "source": "/(.*)",
+            "destination": "/public/$1"
+        }
+    ]
+}

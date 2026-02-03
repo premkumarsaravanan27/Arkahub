@@ -3,11 +3,25 @@ const crypto = require("crypto");
 const app = express();
 app.use(express.json());
 
+// Enable CORS for the dashboard
+app.use((req, res, next) => {
+  res.setHeader('Access-Control-Allow-Origin', '*');
+  res.setHeader('Access-Control-Allow-Methods', 'GET, POST, OPTIONS');
+  res.setHeader('Access-Control-Allow-Headers', 'Content-Type, Signature, Timestamp');
+  if (req.method === 'OPTIONS') {
+    return res.sendStatus(200);
+  }
+  next();
+});
+
 const SECRET_TOKEN = "interview_token_123";
 let lastRequestTime = 0;
 
 // 1. Rate Limiter Middleware (Strict 1s gap)
 app.use((req, res, next) => {
+  // Skip rate limit for health check or other GETs if any
+  if (req.method !== 'POST') return next();
+
   const now = Date.now();
   // Allow a tiny buffer (50ms) for network jitter, but strict otherwise
   if (now - lastRequestTime < 950) {
@@ -26,7 +40,7 @@ app.use((req, res, next) => {
 app.use((req, res, next) => {
   const signature = req.headers["signature"];
   const timestamp = req.headers["timestamp"];
-  const url = req.originalUrl;
+  const url = req.originalUrl.split('?')[0]; // Get path only for signature
 
   if (!timestamp || !signature) {
     return res
@@ -74,7 +88,13 @@ app.post("/device/real/query", (req, res) => {
   res.json({ data: results });
 });
 
-app.listen(3000, () => {
-  console.log("⚡ EnergyGrid Mock API running on port 3000");
-  console.log("   Constraints: 1 req/sec, Max 10 items/batch");
-});
+// For local running
+if (require.main === module) {
+  app.listen(3000, () => {
+    console.log("⚡ EnergyGrid Mock API running on port 3000");
+    console.log("   Constraints: 1 req/sec, Max 10 items/batch");
+  });
+}
+
+// Export for Vercel
+module.exports = app;

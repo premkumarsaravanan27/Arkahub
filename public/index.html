@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EnergyGrid | Real-Time Telemetry Aggregator</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&family=JetBrains+Mono&display=swap" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>EnergyGrid</h1>
+            <p class="subtitle">Solar Inverter Data Aggregation Dashboard</p>
+        </header>
+
+        <div class="dashboard-grid">
+            <section class="controls card">
+                <h2 class="card-title">
+                    <span>⚡</span> System Controls
+                </h2>
+                
+                <div class="stats-grid">
+                    <div class="stat-item">
+                        <div class="stat-value" id="stats-total">0</div>
+                        <div class="stat-label">Total Devices</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-value" id="stats-requests">0</div>
+                        <div class="stat-label">Requests</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-value" id="stats-success">0</div>
+                        <div class="stat-label">Successful</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-value" id="stats-retries">0</div>
+                        <div class="stat-label">Retries</div>
+                    </div>
+                </div>
+
+                <button id="start-btn" class="control-btn">
+                    <span>🚀</span> Start Aggregation
+                </button>
+
+                <div class="progress-bar-container">
+                    <div id="progress" class="progress-bar"></div>
+                </div>
+                <div style="margin-top: 0.5rem; text-align: right; font-size: 0.8rem; color: var(--text-muted);" id="progress-text">
+                    0% Complete
+                </div>
+            </section>
+
+            <section class="logs card">
+                <h2 class="card-title">
+                    <span>📜</span> Activity Log
+                </h2>
+                <div id="log" class="log-container">
+                    <div class="log-entry log-info">System ready. Awaiting input...</div>
+                </div>
+            </section>
+        </div>
+
+        <section class="results">
+            <h2 class="card-title" style="margin-top: 3rem;">
+                <span>📡</span> Live Telemetry (First 50)
+            </h2>
+            <div id="device-list" class="device-list">
+                <!-- Device cards will be injected here -->
+            </div>
+        </section>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
