@@ -1,0 +1,6 @@
+node_modules/
+*.log
+.DS_Store
+.env
+output/*.json
+!output/README.md

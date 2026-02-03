@@ -1,0 +1,5017 @@
+{
+  "success": true,
+  "totalDevices": 500,
+  "devices": [
+    {
+      "serialNumber": "SN-000",
+      "timestamp": "2026-02-03T18:18:14.360Z",
+      "power": 5869,
+      "voltage": 217,
+      "current": "15.51",
+      "temperature": "31.7",
+      "efficiency": "98.56",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-001",
+      "timestamp": "2026-02-03T18:18:14.360Z",
+      "power": 1243,
+      "voltage": 206,
+      "current": "20.89",
+      "temperature": "38.8",
+      "efficiency": "98.15",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-002",
+      "timestamp": "2026-02-03T18:18:14.360Z",
+      "power": 5166,
+      "voltage": 202,
+      "current": "9.73",
+      "temperature": "22.0",
+      "efficiency": "97.98",
+      "status": "offline"
+    },
+    {
+      "serialNumber": "SN-003",
+      "timestamp": "2026-02-03T18:18:14.360Z",
+      "power": 1215,
+      "voltage": 230,
+      "current": "21.26",
+      "temperature": "25.7",
+      "efficiency": "97.02",
+      "status": "offline"
+    },
+    {
+      "serialNumber": "SN-004",
+      "timestamp": "2026-02-03T18:18:14.360Z",
+      "power": 4657,
+      "voltage": 236,
+      "current": "19.43",
+      "temperature": "40.9",
+      "efficiency": "99.36",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-005",
+      "timestamp": "2026-02-03T18:18:14.360Z",
+      "power": 1203,
+      "voltage": 237,
+      "current": "12.99",
+      "temperature": "25.8",
+      "efficiency": "99.49",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-006",
+      "timestamp": "2026-02-03T18:18:14.360Z",
+      "power": 5590,
+      "voltage": 210,
+      "current": "11.67",
+      "temperature": "32.6",
+      "efficiency": "97.06",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-007",
+      "timestamp": "2026-02-03T18:18:14.360Z",
+      "power": 2389,
+      "voltage": 231,
+      "current": "23.64",
+      "temperature": "45.0",
+      "efficiency": "96.99",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-008",
+      "timestamp": "2026-02-03T18:18:14.360Z",
+      "power": 4931,
+      "voltage": 241,
+      "current": "12.93",
+      "temperature": "37.7",
+      "efficiency": "97.98",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-009",
+      "timestamp": "2026-02-03T18:18:14.360Z",
+      "power": 3769,
+      "voltage": 234,
+      "current": "15.86",
+      "temperature": "31.9",
+      "efficiency": "97.92",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-010",
+      "timestamp": "2026-02-03T18:18:17.356Z",
+      "power": 4121,
+      "voltage": 205,
+      "current": "14.62",
+      "temperature": "48.5",
+      "efficiency": "99.68",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-011",
+      "timestamp": "2026-02-03T18:18:17.356Z",
+      "power": 3343,
+      "voltage": 223,
+      "current": "16.44",
+      "temperature": "21.2",
+      "efficiency": "96.17",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-012",
+      "timestamp": "2026-02-03T18:18:17.356Z",
+      "power": 3890,
+      "voltage": 202,
+      "current": "10.42",
+      "temperature": "26.7",
+      "efficiency": "99.78",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-013",
+      "timestamp": "2026-02-03T18:18:17.356Z",
+      "power": 5445,
+      "voltage": 207,
+      "current": "18.65",
+      "temperature": "25.1",
+      "efficiency": "97.76",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-014",
+      "timestamp": "2026-02-03T18:18:17.356Z",
+      "power": 2772,
+      "voltage": 211,
+      "current": "12.00",
+      "temperature": "31.3",
+      "efficiency": "96.11",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-015",
+      "timestamp": "2026-02-03T18:18:17.356Z",
+      "power": 5934,
+      "voltage": 209,
+      "current": "6.04",
+      "temperature": "28.8",
+      "efficiency": "99.78",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-016",
+      "timestamp": "2026-02-03T18:18:17.356Z",
+      "power": 2501,
+      "voltage": 208,
+      "current": "19.07",
+      "temperature": "31.4",
+      "efficiency": "96.18",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-017",
+      "timestamp": "2026-02-03T18:18:17.356Z",
+      "power": 3913,
+      "voltage": 214,
+      "current": "8.37",
+      "temperature": "36.2",
+      "efficiency": "95.41",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-018",
+      "timestamp": "2026-02-03T18:18:17.356Z",
+      "power": 2104,
+      "voltage": 215,
+      "current": "16.08",
+      "temperature": "23.6",
+      "efficiency": "98.60",
+      "status": "offline"
+    },
+    {
+      "serialNumber": "SN-019",
+      "timestamp": "2026-02-03T18:18:17.356Z",
+      "power": 3079,
+      "voltage": 245,
+      "current": "23.17",
+      "temperature": "21.7",
+      "efficiency": "99.30",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-020",
+      "timestamp": "2026-02-03T18:18:19.383Z",
+      "power": 3199,
+      "voltage": 231,
+      "current": "10.12",
+      "temperature": "28.3",
+      "efficiency": "96.82",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-021",
+      "timestamp": "2026-02-03T18:18:19.383Z",
+      "power": 4304,
+      "voltage": 205,
+      "current": "9.90",
+      "temperature": "28.8",
+      "efficiency": "97.14",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-022",
+      "timestamp": "2026-02-03T18:18:19.383Z",
+      "power": 4920,
+      "voltage": 242,
+      "current": "13.43",
+      "temperature": "35.4",
+      "efficiency": "97.26",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-023",
+      "timestamp": "2026-02-03T18:18:19.383Z",
+      "power": 5618,
+      "voltage": 206,
+      "current": "21.29",
+      "temperature": "31.5",
+      "efficiency": "95.29",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-024",
+      "timestamp": "2026-02-03T18:18:19.383Z",
+      "power": 4191,
+      "voltage": 236,
+      "current": "16.46",
+      "temperature": "36.7",
+      "efficiency": "95.22",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-025",
+      "timestamp": "2026-02-03T18:18:19.383Z",
+      "power": 2043,
+      "voltage": 234,
+      "current": "22.82",
+      "temperature": "25.8",
+      "efficiency": "97.13",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-026",
+      "timestamp": "2026-02-03T18:18:19.383Z",
+      "power": 5853,
+      "voltage": 219,
+      "current": "19.92",
+      "temperature": "40.9",
+      "efficiency": "98.57",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-027",
+      "timestamp": "2026-02-03T18:18:19.383Z",
+      "power": 5553,
+      "voltage": 204,
+      "current": "21.29",
+      "temperature": "40.8",
+      "efficiency": "98.62",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-028",
+      "timestamp": "2026-02-03T18:18:19.383Z",
+      "power": 4129,
+      "voltage": 230,
+      "current": "24.36",
+      "temperature": "22.2",
+      "efficiency": "96.27",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-029",
+      "timestamp": "2026-02-03T18:18:19.383Z",
+      "power": 4689,
+      "voltage": 217,
+      "current": "22.41",
+      "temperature": "22.8",
+      "efficiency": "95.47",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-030",
+      "timestamp": "2026-02-03T18:18:21.401Z",
+      "power": 3893,
+      "voltage": 206,
+      "current": "23.47",
+      "temperature": "39.8",
+      "efficiency": "96.16",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-031",
+      "timestamp": "2026-02-03T18:18:21.401Z",
+      "power": 4927,
+      "voltage": 204,
+      "current": "20.55",
+      "temperature": "46.6",
+      "efficiency": "96.29",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-032",
+      "timestamp": "2026-02-03T18:18:21.401Z",
+      "power": 2566,
+      "voltage": 202,
+      "current": "8.57",
+      "temperature": "36.5",
+      "efficiency": "97.27",
+      "status": "offline"
+    },
+    {
+      "serialNumber": "SN-033",
+      "timestamp": "2026-02-03T18:18:21.401Z",
+      "power": 4462,
+      "voltage": 223,
+      "current": "17.75",
+      "temperature": "22.8",
+      "efficiency": "98.70",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-034",
+      "timestamp": "2026-02-03T18:18:21.401Z",
+      "power": 2448,
+      "voltage": 248,
+      "current": "22.20",
+      "temperature": "47.6",
+      "efficiency": "97.22",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-035",
+      "timestamp": "2026-02-03T18:18:21.401Z",
+      "power": 2945,
+      "voltage": 245,
+      "current": "8.57",
+      "temperature": "36.8",
+      "efficiency": "97.38",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-036",
+      "timestamp": "2026-02-03T18:18:21.401Z",
+      "power": 1158,
+      "voltage": 239,
+      "current": "5.45",
+      "temperature": "45.6",
+      "efficiency": "98.86",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-037",
+      "timestamp": "2026-02-03T18:18:21.401Z",
+      "power": 3738,
+      "voltage": 245,
+      "current": "20.68",
+      "temperature": "32.2",
+      "efficiency": "99.52",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-038",
+      "timestamp": "2026-02-03T18:18:21.401Z",
+      "power": 4000,
+      "voltage": 224,
+      "current": "12.51",
+      "temperature": "48.5",
+      "efficiency": "95.03",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-039",
+      "timestamp": "2026-02-03T18:18:21.401Z",
+      "power": 2604,
+      "voltage": 234,
+      "current": "14.31",
+      "temperature": "23.9",
+      "efficiency": "95.98",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-040",
+      "timestamp": "2026-02-03T18:18:23.437Z",
+      "power": 1449,
+      "voltage": 244,
+      "current": "10.71",
+      "temperature": "47.6",
+      "efficiency": "97.15",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-041",
+      "timestamp": "2026-02-03T18:18:23.437Z",
+      "power": 3978,
+      "voltage": 214,
+      "current": "22.52",
+      "temperature": "40.5",
+      "efficiency": "99.30",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-042",
+      "timestamp": "2026-02-03T18:18:23.437Z",
+      "power": 4657,
+      "voltage": 232,
+      "current": "15.11",
+      "temperature": "36.2",
+      "efficiency": "96.69",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-043",
+      "timestamp": "2026-02-03T18:18:23.437Z",
+      "power": 5861,
+      "voltage": 234,
+      "current": "16.72",
+      "temperature": "27.7",
+      "efficiency": "98.33",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-044",
+      "timestamp": "2026-02-03T18:18:23.437Z",
+      "power": 3141,
+      "voltage": 207,
+      "current": "9.48",
+      "temperature": "40.2",
+      "efficiency": "95.10",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-045",
+      "timestamp": "2026-02-03T18:18:23.437Z",
+      "power": 3882,
+      "voltage": 232,
+      "current": "11.12",
+      "temperature": "48.3",
+      "efficiency": "98.76",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-046",
+      "timestamp": "2026-02-03T18:18:23.437Z",
+      "power": 4410,
+      "voltage": 245,
+      "current": "7.40",
+      "temperature": "37.2",
+      "efficiency": "95.13",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-047",
+      "timestamp": "2026-02-03T18:18:23.437Z",
+      "power": 4382,
+      "voltage": 225,
+      "current": "5.31",
+      "temperature": "32.7",
+      "efficiency": "96.69",
+      "status": "offline"
+    },
+    {
+      "serialNumber": "SN-048",
+      "timestamp": "2026-02-03T18:18:23.437Z",
+      "power": 4497,
+      "voltage": 243,
+      "current": "14.78",
+      "temperature": "38.3",
+      "efficiency": "96.07",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-049",
+      "timestamp": "2026-02-03T18:18:23.437Z",
+      "power": 4410,
+      "voltage": 222,
+      "current": "16.34",
+      "temperature": "28.1",
+      "efficiency": "98.35",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-050",
+      "timestamp": "2026-02-03T18:18:25.459Z",
+      "power": 5656,
+      "voltage": 204,
+      "current": "8.77",
+      "temperature": "25.3",
+      "efficiency": "95.10",
+      "status": "offline"
+    },
+    {
+      "serialNumber": "SN-051",
+      "timestamp": "2026-02-03T18:18:25.459Z",
+      "power": 3794,
+      "voltage": 214,
+      "current": "17.09",
+      "temperature": "23.8",
+      "efficiency": "96.47",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-052",
+      "timestamp": "2026-02-03T18:18:25.459Z",
+      "power": 4750,
+      "voltage": 208,
+      "current": "19.40",
+      "temperature": "46.4",
+      "efficiency": "99.19",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-053",
+      "timestamp": "2026-02-03T18:18:25.459Z",
+      "power": 5237,
+      "voltage": 236,
+      "current": "7.33",
+      "temperature": "28.8",
+      "efficiency": "96.31",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-054",
+      "timestamp": "2026-02-03T18:18:25.459Z",
+      "power": 4124,
+      "voltage": 202,
+      "current": "15.56",
+      "temperature": "40.3",
+      "efficiency": "98.24",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-055",
+      "timestamp": "2026-02-03T18:18:25.459Z",
+      "power": 1059,
+      "voltage": 210,
+      "current": "19.90",
+      "temperature": "37.6",
+      "efficiency": "99.21",
+      "status": "offline"
+    },
+    {
+      "serialNumber": "SN-056",
+      "timestamp": "2026-02-03T18:18:25.459Z",
+      "power": 1465,
+      "voltage": 227,
+      "current": "20.37",
+      "temperature": "39.0",
+      "efficiency": "99.36",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-057",
+      "timestamp": "2026-02-03T18:18:25.459Z",
+      "power": 4623,
+      "voltage": 238,
+      "current": "22.03",
+      "temperature": "28.9",
+      "efficiency": "99.00",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-058",
+      "timestamp": "2026-02-03T18:18:25.459Z",
+      "power": 2418,
+      "voltage": 249,
+      "current": "24.95",
+      "temperature": "31.3",
+      "efficiency": "99.78",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-059",
+      "timestamp": "2026-02-03T18:18:25.459Z",
+      "power": 1835,
+      "voltage": 218,
+      "current": "24.36",
+      "temperature": "27.0",
+      "efficiency": "98.65",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-060",
+      "timestamp": "2026-02-03T18:18:27.474Z",
+      "power": 5790,
+      "voltage": 201,
+      "current": "15.63",
+      "temperature": "49.6",
+      "efficiency": "96.77",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-061",
+      "timestamp": "2026-02-03T18:18:27.474Z",
+      "power": 3381,
+      "voltage": 204,
+      "current": "18.88",
+      "temperature": "29.4",
+      "efficiency": "97.38",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-062",
+      "timestamp": "2026-02-03T18:18:27.474Z",
+      "power": 1842,
+      "voltage": 205,
+      "current": "22.21",
+      "temperature": "44.6",
+      "efficiency": "98.89",
+      "status": "offline"
+    },
+    {
+      "serialNumber": "SN-063",
+      "timestamp": "2026-02-03T18:18:27.474Z",
+      "power": 2042,
+      "voltage": 229,
+      "current": "23.52",
+      "temperature": "40.0",
+      "efficiency": "96.73",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-064",
+      "timestamp": "2026-02-03T18:18:27.474Z",
+      "power": 4363,
+      "voltage": 239,
+      "current": "11.68",
+      "temperature": "30.6",
+      "efficiency": "97.51",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-065",
+      "timestamp": "2026-02-03T18:18:27.474Z",
+      "power": 2030,
+      "voltage": 224,
+      "current": "14.48",
+      "temperature": "35.8",
+      "efficiency": "95.37",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-066",
+      "timestamp": "2026-02-03T18:18:27.474Z",
+      "power": 2122,
+      "voltage": 237,
+      "current": "14.90",
+      "temperature": "25.6",
+      "efficiency": "96.68",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-067",
+      "timestamp": "2026-02-03T18:18:27.474Z",
+      "power": 1904,
+      "voltage": 244,
+      "current": "22.26",
+      "temperature": "45.5",
+      "efficiency": "98.08",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-068",
+      "timestamp": "2026-02-03T18:18:27.474Z",
+      "power": 4114,
+      "voltage": 225,
+      "current": "16.46",
+      "temperature": "37.2",
+      "efficiency": "96.60",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-069",
+      "timestamp": "2026-02-03T18:18:27.474Z",
+      "power": 1266,
+      "voltage": 213,
+      "current": "24.06",
+      "temperature": "35.3",
+      "efficiency": "97.37",
+      "status": "offline"
+    },
+    {
+      "serialNumber": "SN-070",
+      "timestamp": "2026-02-03T18:18:29.490Z",
+      "power": 5194,
+      "voltage": 237,
+      "current": "16.26",
+      "temperature": "23.6",
+      "efficiency": "95.11",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-071",
+      "timestamp": "2026-02-03T18:18:29.490Z",
+      "power": 3919,
+      "voltage": 200,
+      "current": "11.59",
+      "temperature": "44.8",
+      "efficiency": "97.81",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-072",
+      "timestamp": "2026-02-03T18:18:29.490Z",
+      "power": 4121,
+      "voltage": 220,
+      "current": "24.32",
+      "temperature": "29.3",
+      "efficiency": "97.90",
+      "status": "offline"
+    },
+    {
+      "serialNumber": "SN-073",
+      "timestamp": "2026-02-03T18:18:29.490Z",
+      "power": 4090,
+      "voltage": 239,
+      "current": "5.86",
+      "temperature": "41.0",
+      "efficiency": "96.57",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-074",
+      "timestamp": "2026-02-03T18:18:29.490Z",
+      "power": 1191,
+      "voltage": 233,
+      "current": "17.54",
+      "temperature": "21.0",
+      "efficiency": "99.07",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-075",
+      "timestamp": "2026-02-03T18:18:29.490Z",
+      "power": 2975,
+      "voltage": 219,
+      "current": "13.52",
+      "temperature": "23.2",
+      "efficiency": "99.78",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-076",
+      "timestamp": "2026-02-03T18:18:29.490Z",
+      "power": 2801,
+      "voltage": 208,
+      "current": "18.98",
+      "temperature": "22.3",
+      "efficiency": "99.81",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-077",
+      "timestamp": "2026-02-03T18:18:29.490Z",
+      "power": 5938,
+      "voltage": 244,
+      "current": "18.66",
+      "temperature": "35.0",
+      "efficiency": "96.81",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-078",
+      "timestamp": "2026-02-03T18:18:29.490Z",
+      "power": 2823,
+      "voltage": 205,
+      "current": "22.48",
+      "temperature": "47.0",
+      "efficiency": "98.59",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-079",
+      "timestamp": "2026-02-03T18:18:29.490Z",
+      "power": 5963,
+      "voltage": 207,
+      "current": "14.90",
+      "temperature": "44.9",
+      "efficiency": "95.92",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-080",
+      "timestamp": "2026-02-03T18:18:31.508Z",
+      "power": 1490,
+      "voltage": 226,
+      "current": "12.47",
+      "temperature": "37.3",
+      "efficiency": "99.55",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-081",
+      "timestamp": "2026-02-03T18:18:31.508Z",
+      "power": 1489,
+      "voltage": 206,
+      "current": "19.00",
+      "temperature": "32.6",
+      "efficiency": "98.49",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-082",
+      "timestamp": "2026-02-03T18:18:31.508Z",
+      "power": 1682,
+      "voltage": 230,
+      "current": "13.10",
+      "temperature": "27.1",
+      "efficiency": "96.11",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-083",
+      "timestamp": "2026-02-03T18:18:31.508Z",
+      "power": 3654,
+      "voltage": 218,
+      "current": "5.81",
+      "temperature": "40.4",
+      "efficiency": "96.42",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-084",
+      "timestamp": "2026-02-03T18:18:31.508Z",
+      "power": 3951,
+      "voltage": 206,
+      "current": "23.25",
+      "temperature": "25.2",
+      "efficiency": "99.79",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-085",
+      "timestamp": "2026-02-03T18:18:31.508Z",
+      "power": 3718,
+      "voltage": 228,
+      "current": "8.38",
+      "temperature": "46.9",
+      "efficiency": "96.75",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-086",
+      "timestamp": "2026-02-03T18:18:31.508Z",
+      "power": 5165,
+      "voltage": 206,
+      "current": "22.87",
+      "temperature": "42.3",
+      "efficiency": "95.94",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-087",
+      "timestamp": "2026-02-03T18:18:31.508Z",
+      "power": 1650,
+      "voltage": 241,
+      "current": "9.95",
+      "temperature": "32.9",
+      "efficiency": "96.02",
+      "status": "offline"
+    },
+    {
+      "serialNumber": "SN-088",
+      "timestamp": "2026-02-03T18:18:31.508Z",
+      "power": 2047,
+      "voltage": 242,
+      "current": "6.84",
+      "temperature": "26.4",
+      "efficiency": "98.08",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-089",
+      "timestamp": "2026-02-03T18:18:31.508Z",
+      "power": 2778,
+      "voltage": 201,
+      "current": "14.66",
+      "temperature": "46.3",
+      "efficiency": "95.26",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-090",
+      "timestamp": "2026-02-03T18:18:33.528Z",
+      "power": 5963,
+      "voltage": 222,
+      "current": "8.15",
+      "temperature": "47.0",
+      "efficiency": "99.69",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-091",
+      "timestamp": "2026-02-03T18:18:33.528Z",
+      "power": 1199,
+      "voltage": 233,
+      "current": "18.78",
+      "temperature": "30.1",
+      "efficiency": "97.83",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-092",
+      "timestamp": "2026-02-03T18:18:33.528Z",
+      "power": 5993,
+      "voltage": 246,
+      "current": "24.84",
+      "temperature": "36.4",
+      "efficiency": "96.42",
+      "status": "offline"
+    },
+    {
+      "serialNumber": "SN-093",
+      "timestamp": "2026-02-03T18:18:33.528Z",
+      "power": 5416,
+      "voltage": 202,
+      "current": "11.62",
+      "temperature": "44.4",
+      "efficiency": "98.57",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-094",
+      "timestamp": "2026-02-03T18:18:33.528Z",
+      "power": 1948,
+      "voltage": 219,
+      "current": "13.57",
+      "temperature": "50.0",
+      "efficiency": "98.45",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-095",
+      "timestamp": "2026-02-03T18:18:33.528Z",
+      "power": 2221,
+      "voltage": 247,
+      "current": "13.88",
+      "temperature": "26.1",
+      "efficiency": "95.24",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-096",
+      "timestamp": "2026-02-03T18:18:33.528Z",
+      "power": 1735,
+      "voltage": 227,
+      "current": "16.09",
+      "temperature": "36.9",
+      "efficiency": "99.52",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-097",
+      "timestamp": "2026-02-03T18:18:33.528Z",
+      "power": 3409,
+      "voltage": 238,
+      "current": "7.35",
+      "temperature": "36.2",
+      "efficiency": "96.73",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-098",
+      "timestamp": "2026-02-03T18:18:33.528Z",
+      "power": 4797,
+      "voltage": 242,
+      "current": "8.24",
+      "temperature": "39.6",
+      "efficiency": "95.59",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-099",
+      "timestamp": "2026-02-03T18:18:33.528Z",
+      "power": 3873,
+      "voltage": 247,
+      "current": "14.83",
+      "temperature": "32.0",
+      "efficiency": "99.70",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-100",
+      "timestamp": "2026-02-03T18:18:35.551Z",
+      "power": 4202,
+      "voltage": 226,
+      "current": "21.33",
+      "temperature": "47.7",
+      "efficiency": "96.90",
+      "status": "offline"
+    },
+    {
+      "serialNumber": "SN-101",
+      "timestamp": "2026-02-03T18:18:35.551Z",
+      "power": 5343,
+      "voltage": 227,
+      "current": "13.11",
+      "temperature": "39.2",
+      "efficiency": "96.40",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-102",
+      "timestamp": "2026-02-03T18:18:35.551Z",
+      "power": 2665,
+      "voltage": 232,
+      "current": "11.19",
+      "temperature": "23.5",
+      "efficiency": "98.14",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-103",
+      "timestamp": "2026-02-03T18:18:35.551Z",
+      "power": 2065,
+      "voltage": 223,
+      "current": "17.23",
+      "temperature": "47.8",
+      "efficiency": "97.54",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-104",
+      "timestamp": "2026-02-03T18:18:35.551Z",
+      "power": 4017,
+      "voltage": 215,
+      "current": "16.24",
+      "temperature": "46.1",
+      "efficiency": "99.29",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-105",
+      "timestamp": "2026-02-03T18:18:35.551Z",
+      "power": 3685,
+      "voltage": 217,
+      "current": "17.52",
+      "temperature": "37.6",
+      "efficiency": "95.11",
+      "status": "offline"
+    },
+    {
+      "serialNumber": "SN-106",
+      "timestamp": "2026-02-03T18:18:35.551Z",
+      "power": 1305,
+      "voltage": 221,
+      "current": "24.29",
+      "temperature": "22.0",
+      "efficiency": "98.69",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-107",
+      "timestamp": "2026-02-03T18:18:35.551Z",
+      "power": 4623,
+      "voltage": 204,
+      "current": "24.97",
+      "temperature": "32.0",
+      "efficiency": "96.09",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-108",
+      "timestamp": "2026-02-03T18:18:35.551Z",
+      "power": 1150,
+      "voltage": 236,
+      "current": "19.92",
+      "temperature": "39.4",
+      "efficiency": "98.37",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-109",
+      "timestamp": "2026-02-03T18:18:35.551Z",
+      "power": 4577,
+      "voltage": 216,
+      "current": "7.46",
+      "temperature": "21.8",
+      "efficiency": "97.57",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-110",
+      "timestamp": "2026-02-03T18:18:37.574Z",
+      "power": 3230,
+      "voltage": 224,
+      "current": "14.36",
+      "temperature": "25.5",
+      "efficiency": "95.45",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-111",
+      "timestamp": "2026-02-03T18:18:37.574Z",
+      "power": 2212,
+      "voltage": 208,
+      "current": "21.86",
+      "temperature": "42.6",
+      "efficiency": "98.46",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-112",
+      "timestamp": "2026-02-03T18:18:37.574Z",
+      "power": 4065,
+      "voltage": 242,
+      "current": "20.28",
+      "temperature": "33.3",
+      "efficiency": "96.11",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-113",
+      "timestamp": "2026-02-03T18:18:37.574Z",
+      "power": 5430,
+      "voltage": 208,
+      "current": "8.62",
+      "temperature": "23.2",
+      "efficiency": "95.14",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-114",
+      "timestamp": "2026-02-03T18:18:37.574Z",
+      "power": 3115,
+      "voltage": 234,
+      "current": "15.65",
+      "temperature": "41.2",
+      "efficiency": "97.81",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-115",
+      "timestamp": "2026-02-03T18:18:37.574Z",
+      "power": 1108,
+      "voltage": 236,
+      "current": "6.05",
+      "temperature": "33.4",
+      "efficiency": "95.43",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-116",
+      "timestamp": "2026-02-03T18:18:37.574Z",
+      "power": 5880,
+      "voltage": 215,
+      "current": "7.93",
+      "temperature": "43.3",
+      "efficiency": "95.51",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-117",
+      "timestamp": "2026-02-03T18:18:37.574Z",
+      "power": 1901,
+      "voltage": 226,
+      "current": "12.00",
+      "temperature": "38.3",
+      "efficiency": "95.71",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-118",
+      "timestamp": "2026-02-03T18:18:37.574Z",
+      "power": 5153,
+      "voltage": 231,
+      "current": "14.44",
+      "temperature": "21.6",
+      "efficiency": "97.45",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-119",
+      "timestamp": "2026-02-03T18:18:37.574Z",
+      "power": 5119,
+      "voltage": 211,
+      "current": "22.61",
+      "temperature": "40.8",
+      "efficiency": "98.25",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-120",
+      "timestamp": "2026-02-03T18:18:39.586Z",
+      "power": 3252,
+      "voltage": 232,
+      "current": "21.52",
+      "temperature": "22.9",
+      "efficiency": "95.74",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-121",
+      "timestamp": "2026-02-03T18:18:39.586Z",
+      "power": 5134,
+      "voltage": 228,
+      "current": "15.90",
+      "temperature": "32.4",
+      "efficiency": "95.99",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-122",
+      "timestamp": "2026-02-03T18:18:39.586Z",
+      "power": 3090,
+      "voltage": 200,
+      "current": "21.80",
+      "temperature": "26.5",
+      "efficiency": "99.11",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-123",
+      "timestamp": "2026-02-03T18:18:39.586Z",
+      "power": 4040,
+      "voltage": 224,
+      "current": "7.30",
+      "temperature": "34.0",
+      "efficiency": "99.25",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-124",
+      "timestamp": "2026-02-03T18:18:39.586Z",
+      "power": 5784,
+      "voltage": 206,
+      "current": "24.43",
+      "temperature": "40.7",
+      "efficiency": "95.40",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-125",
+      "timestamp": "2026-02-03T18:18:39.586Z",
+      "power": 2120,
+      "voltage": 209,
+      "current": "22.26",
+      "temperature": "42.7",
+      "efficiency": "95.08",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-126",
+      "timestamp": "2026-02-03T18:18:39.586Z",
+      "power": 5446,
+      "voltage": 233,
+      "current": "9.82",
+      "temperature": "34.9",
+      "efficiency": "98.52",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-127",
+      "timestamp": "2026-02-03T18:18:39.586Z",
+      "power": 2778,
+      "voltage": 234,
+      "current": "21.66",
+      "temperature": "38.1",
+      "efficiency": "97.49",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-128",
+      "timestamp": "2026-02-03T18:18:39.586Z",
+      "power": 3211,
+      "voltage": 201,
+      "current": "18.52",
+      "temperature": "41.1",
+      "efficiency": "95.54",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-129",
+      "timestamp": "2026-02-03T18:18:39.586Z",
+      "power": 5602,
+      "voltage": 210,
+      "current": "20.73",
+      "temperature": "24.8",
+      "efficiency": "99.61",
+      "status": "offline"
+    },
+    {
+      "serialNumber": "SN-130",
+      "timestamp": "2026-02-03T18:18:41.604Z",
+      "power": 2029,
+      "voltage": 203,
+      "current": "18.74",
+      "temperature": "26.2",
+      "efficiency": "97.42",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-131",
+      "timestamp": "2026-02-03T18:18:41.604Z",
+      "power": 5807,
+      "voltage": 238,
+      "current": "9.77",
+      "temperature": "32.7",
+      "efficiency": "96.48",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-132",
+      "timestamp": "2026-02-03T18:18:41.604Z",
+      "power": 3336,
+      "voltage": 236,
+      "current": "11.51",
+      "temperature": "42.2",
+      "efficiency": "96.98",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-133",
+      "timestamp": "2026-02-03T18:18:41.604Z",
+      "power": 5283,
+      "voltage": 245,
+      "current": "13.34",
+      "temperature": "24.2",
+      "efficiency": "95.41",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-134",
+      "timestamp": "2026-02-03T18:18:41.604Z",
+      "power": 4291,
+      "voltage": 214,
+      "current": "13.31",
+      "temperature": "48.4",
+      "efficiency": "96.39",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-135",
+      "timestamp": "2026-02-03T18:18:41.604Z",
+      "power": 5004,
+      "voltage": 208,
+      "current": "13.43",
+      "temperature": "35.9",
+      "efficiency": "97.59",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-136",
+      "timestamp": "2026-02-03T18:18:41.604Z",
+      "power": 5930,
+      "voltage": 227,
+      "current": "20.76",
+      "temperature": "48.4",
+      "efficiency": "97.49",
+      "status": "offline"
+    },
+    {
+      "serialNumber": "SN-137",
+      "timestamp": "2026-02-03T18:18:41.604Z",
+      "power": 2760,
+      "voltage": 233,
+      "current": "17.08",
+      "temperature": "38.1",
+      "efficiency": "98.24",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-138",
+      "timestamp": "2026-02-03T18:18:41.604Z",
+      "power": 5602,
+      "voltage": 235,
+      "current": "6.98",
+      "temperature": "32.9",
+      "efficiency": "98.23",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-139",
+      "timestamp": "2026-02-03T18:18:41.604Z",
+      "power": 2361,
+      "voltage": 238,
+      "current": "13.01",
+      "temperature": "27.9",
+      "efficiency": "98.09",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-140",
+      "timestamp": "2026-02-03T18:18:43.621Z",
+      "power": 3570,
+      "voltage": 203,
+      "current": "22.58",
+      "temperature": "36.3",
+      "efficiency": "97.38",
+      "status": "offline"
+    },
+    {
+      "serialNumber": "SN-141",
+      "timestamp": "2026-02-03T18:18:43.621Z",
+      "power": 1106,
+      "voltage": 219,
+      "current": "9.87",
+      "temperature": "49.4",
+      "efficiency": "95.20",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-142",
+      "timestamp": "2026-02-03T18:18:43.621Z",
+      "power": 4173,
+      "voltage": 202,
+      "current": "9.54",
+      "temperature": "21.5",
+      "efficiency": "95.74",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-143",
+      "timestamp": "2026-02-03T18:18:43.621Z",
+      "power": 5981,
+      "voltage": 212,
+      "current": "16.52",
+      "temperature": "39.0",
+      "efficiency": "97.52",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-144",
+      "timestamp": "2026-02-03T18:18:43.621Z",
+      "power": 1215,
+      "voltage": 224,
+      "current": "5.81",
+      "temperature": "47.8",
+      "efficiency": "96.24",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-145",
+      "timestamp": "2026-02-03T18:18:43.621Z",
+      "power": 2040,
+      "voltage": 234,
+      "current": "14.51",
+      "temperature": "22.2",
+      "efficiency": "95.83",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-146",
+      "timestamp": "2026-02-03T18:18:43.621Z",
+      "power": 1268,
+      "voltage": 236,
+      "current": "14.74",
+      "temperature": "39.2",
+      "efficiency": "95.37",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-147",
+      "timestamp": "2026-02-03T18:18:43.622Z",
+      "power": 1528,
+      "voltage": 241,
+      "current": "20.55",
+      "temperature": "41.7",
+      "efficiency": "95.11",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-148",
+      "timestamp": "2026-02-03T18:18:43.622Z",
+      "power": 2114,
+      "voltage": 218,
+      "current": "15.20",
+      "temperature": "24.0",
+      "efficiency": "97.60",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-149",
+      "timestamp": "2026-02-03T18:18:43.622Z",
+      "power": 5345,
+      "voltage": 230,
+      "current": "7.26",
+      "temperature": "36.2",
+      "efficiency": "97.94",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-150",
+      "timestamp": "2026-02-03T18:18:45.642Z",
+      "power": 2187,
+      "voltage": 220,
+      "current": "10.68",
+      "temperature": "31.0",
+      "efficiency": "99.71",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-151",
+      "timestamp": "2026-02-03T18:18:45.642Z",
+      "power": 5645,
+      "voltage": 233,
+      "current": "17.49",
+      "temperature": "46.3",
+      "efficiency": "97.41",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-152",
+      "timestamp": "2026-02-03T18:18:45.642Z",
+      "power": 4431,
+      "voltage": 212,
+      "current": "14.30",
+      "temperature": "47.4",
+      "efficiency": "96.41",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-153",
+      "timestamp": "2026-02-03T18:18:45.642Z",
+      "power": 2928,
+      "voltage": 221,
+      "current": "7.70",
+      "temperature": "24.3",
+      "efficiency": "98.68",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-154",
+      "timestamp": "2026-02-03T18:18:45.642Z",
+      "power": 3973,
+      "voltage": 236,
+      "current": "9.29",
+      "temperature": "39.4",
+      "efficiency": "96.40",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-155",
+      "timestamp": "2026-02-03T18:18:45.642Z",
+      "power": 3616,
+      "voltage": 244,
+      "current": "5.77",
+      "temperature": "47.3",
+      "efficiency": "98.12",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-156",
+      "timestamp": "2026-02-03T18:18:45.642Z",
+      "power": 1722,
+      "voltage": 246,
+      "current": "23.48",
+      "temperature": "47.7",
+      "efficiency": "97.26",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-157",
+      "timestamp": "2026-02-03T18:18:45.642Z",
+      "power": 2621,
+      "voltage": 241,
+      "current": "18.13",
+      "temperature": "23.2",
+      "efficiency": "99.00",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-158",
+      "timestamp": "2026-02-03T18:18:45.642Z",
+      "power": 4039,
+      "voltage": 210,
+      "current": "9.26",
+      "temperature": "37.3",
+      "efficiency": "99.35",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-159",
+      "timestamp": "2026-02-03T18:18:45.642Z",
+      "power": 4442,
+      "voltage": 211,
+      "current": "12.70",
+      "temperature": "33.3",
+      "efficiency": "97.38",
+      "status": "offline"
+    },
+    {
+      "serialNumber": "SN-160",
+      "timestamp": "2026-02-03T18:18:47.666Z",
+      "power": 2416,
+      "voltage": 221,
+      "current": "13.29",
+      "temperature": "42.0",
+      "efficiency": "99.50",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-161",
+      "timestamp": "2026-02-03T18:18:47.666Z",
+      "power": 5096,
+      "voltage": 237,
+      "current": "20.80",
+      "temperature": "25.5",
+      "efficiency": "98.83",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-162",
+      "timestamp": "2026-02-03T18:18:47.666Z",
+      "power": 2163,
+      "voltage": 231,
+      "current": "14.32",
+      "temperature": "35.0",
+      "efficiency": "95.03",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-163",
+      "timestamp": "2026-02-03T18:18:47.666Z",
+      "power": 4475,
+      "voltage": 246,
+      "current": "23.26",
+      "temperature": "30.8",
+      "efficiency": "98.38",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-164",
+      "timestamp": "2026-02-03T18:18:47.666Z",
+      "power": 1962,
+      "voltage": 239,
+      "current": "9.17",
+      "temperature": "25.1",
+      "efficiency": "99.00",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-165",
+      "timestamp": "2026-02-03T18:18:47.666Z",
+      "power": 5161,
+      "voltage": 216,
+      "current": "13.04",
+      "temperature": "29.0",
+      "efficiency": "98.75",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-166",
+      "timestamp": "2026-02-03T18:18:47.666Z",
+      "power": 4493,
+      "voltage": 206,
+      "current": "13.93",
+      "temperature": "44.4",
+      "efficiency": "95.69",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-167",
+      "timestamp": "2026-02-03T18:18:47.666Z",
+      "power": 1283,
+      "voltage": 214,
+      "current": "24.61",
+      "temperature": "40.8",
+      "efficiency": "97.45",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-168",
+      "timestamp": "2026-02-03T18:18:47.666Z",
+      "power": 2878,
+      "voltage": 244,
+      "current": "13.67",
+      "temperature": "39.5",
+      "efficiency": "96.02",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-169",
+      "timestamp": "2026-02-03T18:18:47.666Z",
+      "power": 4235,
+      "voltage": 230,
+      "current": "24.26",
+      "temperature": "28.5",
+      "efficiency": "98.55",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-170",
+      "timestamp": "2026-02-03T18:18:49.682Z",
+      "power": 3362,
+      "voltage": 208,
+      "current": "11.92",
+      "temperature": "23.2",
+      "efficiency": "97.02",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-171",
+      "timestamp": "2026-02-03T18:18:49.682Z",
+      "power": 5348,
+      "voltage": 229,
+      "current": "21.44",
+      "temperature": "45.0",
+      "efficiency": "97.14",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-172",
+      "timestamp": "2026-02-03T18:18:49.682Z",
+      "power": 2339,
+      "voltage": 235,
+      "current": "21.04",
+      "temperature": "46.1",
+      "efficiency": "97.00",
+      "status": "offline"
+    },
+    {
+      "serialNumber": "SN-173",
+      "timestamp": "2026-02-03T18:18:49.682Z",
+      "power": 3783,
+      "voltage": 241,
+      "current": "5.45",
+      "temperature": "40.7",
+      "efficiency": "95.14",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-174",
+      "timestamp": "2026-02-03T18:18:49.682Z",
+      "power": 4434,
+      "voltage": 234,
+      "current": "22.93",
+      "temperature": "49.1",
+      "efficiency": "96.15",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-175",
+      "timestamp": "2026-02-03T18:18:49.682Z",
+      "power": 4952,
+      "voltage": 226,
+      "current": "6.26",
+      "temperature": "34.9",
+      "efficiency": "96.15",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-176",
+      "timestamp": "2026-02-03T18:18:49.682Z",
+      "power": 1664,
+      "voltage": 236,
+      "current": "14.30",
+      "temperature": "47.9",
+      "efficiency": "95.84",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-177",
+      "timestamp": "2026-02-03T18:18:49.682Z",
+      "power": 2847,
+      "voltage": 224,
+      "current": "15.36",
+      "temperature": "31.5",
+      "efficiency": "97.06",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-178",
+      "timestamp": "2026-02-03T18:18:49.682Z",
+      "power": 5379,
+      "voltage": 223,
+      "current": "9.58",
+      "temperature": "30.7",
+      "efficiency": "98.56",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-179",
+      "timestamp": "2026-02-03T18:18:49.682Z",
+      "power": 4249,
+      "voltage": 245,
+      "current": "23.30",
+      "temperature": "32.7",
+      "efficiency": "97.92",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-180",
+      "timestamp": "2026-02-03T18:18:51.701Z",
+      "power": 2840,
+      "voltage": 218,
+      "current": "15.41",
+      "temperature": "39.2",
+      "efficiency": "95.40",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-181",
+      "timestamp": "2026-02-03T18:18:51.701Z",
+      "power": 3294,
+      "voltage": 231,
+      "current": "16.24",
+      "temperature": "22.6",
+      "efficiency": "95.68",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-182",
+      "timestamp": "2026-02-03T18:18:51.701Z",
+      "power": 5511,
+      "voltage": 201,
+      "current": "22.34",
+      "temperature": "42.4",
+      "efficiency": "95.32",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-183",
+      "timestamp": "2026-02-03T18:18:51.701Z",
+      "power": 2189,
+      "voltage": 208,
+      "current": "22.45",
+      "temperature": "35.3",
+      "efficiency": "99.87",
+      "status": "offline"
+    },
+    {
+      "serialNumber": "SN-184",
+      "timestamp": "2026-02-03T18:18:51.701Z",
+      "power": 3094,
+      "voltage": 207,
+      "current": "8.46",
+      "temperature": "22.7",
+      "efficiency": "99.87",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-185",
+      "timestamp": "2026-02-03T18:18:51.701Z",
+      "power": 2619,
+      "voltage": 232,
+      "current": "24.49",
+      "temperature": "33.5",
+      "efficiency": "95.68",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-186",
+      "timestamp": "2026-02-03T18:18:51.701Z",
+      "power": 4056,
+      "voltage": 247,
+      "current": "15.62",
+      "temperature": "40.7",
+      "efficiency": "99.04",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-187",
+      "timestamp": "2026-02-03T18:18:51.701Z",
+      "power": 4022,
+      "voltage": 205,
+      "current": "24.55",
+      "temperature": "27.2",
+      "efficiency": "97.20",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-188",
+      "timestamp": "2026-02-03T18:18:51.701Z",
+      "power": 5977,
+      "voltage": 229,
+      "current": "16.79",
+      "temperature": "22.0",
+      "efficiency": "98.74",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-189",
+      "timestamp": "2026-02-03T18:18:51.701Z",
+      "power": 2832,
+      "voltage": 213,
+      "current": "5.65",
+      "temperature": "43.9",
+      "efficiency": "99.92",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-190",
+      "timestamp": "2026-02-03T18:18:53.719Z",
+      "power": 2555,
+      "voltage": 206,
+      "current": "10.55",
+      "temperature": "30.6",
+      "efficiency": "98.36",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-191",
+      "timestamp": "2026-02-03T18:18:53.719Z",
+      "power": 1525,
+      "voltage": 223,
+      "current": "13.67",
+      "temperature": "47.8",
+      "efficiency": "98.28",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-192",
+      "timestamp": "2026-02-03T18:18:53.719Z",
+      "power": 1461,
+      "voltage": 223,
+      "current": "16.58",
+      "temperature": "42.4",
+      "efficiency": "95.53",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-193",
+      "timestamp": "2026-02-03T18:18:53.719Z",
+      "power": 2566,
+      "voltage": 233,
+      "current": "7.08",
+      "temperature": "25.1",
+      "efficiency": "97.77",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-194",
+      "timestamp": "2026-02-03T18:18:53.719Z",
+      "power": 4923,
+      "voltage": 249,
+      "current": "18.53",
+      "temperature": "25.8",
+      "efficiency": "96.22",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-195",
+      "timestamp": "2026-02-03T18:18:53.719Z",
+      "power": 5277,
+      "voltage": 205,
+      "current": "16.24",
+      "temperature": "42.6",
+      "efficiency": "96.78",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-196",
+      "timestamp": "2026-02-03T18:18:53.719Z",
+      "power": 1486,
+      "voltage": 215,
+      "current": "7.55",
+      "temperature": "31.1",
+      "efficiency": "99.64",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-197",
+      "timestamp": "2026-02-03T18:18:53.719Z",
+      "power": 2327,
+      "voltage": 203,
+      "current": "16.66",
+      "temperature": "28.2",
+      "efficiency": "99.89",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-198",
+      "timestamp": "2026-02-03T18:18:53.719Z",
+      "power": 3021,
+      "voltage": 248,
+      "current": "11.57",
+      "temperature": "37.0",
+      "efficiency": "99.05",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-199",
+      "timestamp": "2026-02-03T18:18:53.719Z",
+      "power": 4688,
+      "voltage": 236,
+      "current": "14.77",
+      "temperature": "40.4",
+      "efficiency": "99.06",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-200",
+      "timestamp": "2026-02-03T18:18:55.733Z",
+      "power": 2006,
+      "voltage": 233,
+      "current": "18.91",
+      "temperature": "39.0",
+      "efficiency": "99.03",
+      "status": "offline"
+    },
+    {
+      "serialNumber": "SN-201",
+      "timestamp": "2026-02-03T18:18:55.733Z",
+      "power": 4471,
+      "voltage": 213,
+      "current": "23.84",
+      "temperature": "27.4",
+      "efficiency": "97.19",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-202",
+      "timestamp": "2026-02-03T18:18:55.733Z",
+      "power": 5774,
+      "voltage": 230,
+      "current": "6.45",
+      "temperature": "41.0",
+      "efficiency": "95.44",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-203",
+      "timestamp": "2026-02-03T18:18:55.733Z",
+      "power": 4593,
+      "voltage": 212,
+      "current": "17.09",
+      "temperature": "31.6",
+      "efficiency": "97.81",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-204",
+      "timestamp": "2026-02-03T18:18:55.733Z",
+      "power": 1335,
+      "voltage": 222,
+      "current": "19.61",
+      "temperature": "40.9",
+      "efficiency": "97.55",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-205",
+      "timestamp": "2026-02-03T18:18:55.733Z",
+      "power": 4994,
+      "voltage": 241,
+      "current": "6.17",
+      "temperature": "41.4",
+      "efficiency": "95.54",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-206",
+      "timestamp": "2026-02-03T18:18:55.733Z",
+      "power": 5084,
+      "voltage": 245,
+      "current": "22.16",
+      "temperature": "42.7",
+      "efficiency": "99.04",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-207",
+      "timestamp": "2026-02-03T18:18:55.733Z",
+      "power": 3591,
+      "voltage": 236,
+      "current": "8.22",
+      "temperature": "47.0",
+      "efficiency": "97.89",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-208",
+      "timestamp": "2026-02-03T18:18:55.733Z",
+      "power": 5776,
+      "voltage": 248,
+      "current": "24.82",
+      "temperature": "38.3",
+      "efficiency": "96.38",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-209",
+      "timestamp": "2026-02-03T18:18:55.733Z",
+      "power": 1598,
+      "voltage": 247,
+      "current": "24.22",
+      "temperature": "30.1",
+      "efficiency": "98.73",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-210",
+      "timestamp": "2026-02-03T18:18:57.749Z",
+      "power": 2158,
+      "voltage": 246,
+      "current": "16.42",
+      "temperature": "24.1",
+      "efficiency": "98.55",
+      "status": "offline"
+    },
+    {
+      "serialNumber": "SN-211",
+      "timestamp": "2026-02-03T18:18:57.749Z",
+      "power": 3559,
+      "voltage": 208,
+      "current": "11.43",
+      "temperature": "20.3",
+      "efficiency": "98.17",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-212",
+      "timestamp": "2026-02-03T18:18:57.749Z",
+      "power": 1301,
+      "voltage": 247,
+      "current": "8.85",
+      "temperature": "39.5",
+      "efficiency": "99.74",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-213",
+      "timestamp": "2026-02-03T18:18:57.749Z",
+      "power": 2534,
+      "voltage": 202,
+      "current": "16.85",
+      "temperature": "22.6",
+      "efficiency": "97.33",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-214",
+      "timestamp": "2026-02-03T18:18:57.749Z",
+      "power": 2947,
+      "voltage": 210,
+      "current": "23.46",
+      "temperature": "27.7",
+      "efficiency": "99.42",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-215",
+      "timestamp": "2026-02-03T18:18:57.749Z",
+      "power": 5722,
+      "voltage": 213,
+      "current": "7.82",
+      "temperature": "26.1",
+      "efficiency": "96.80",
+      "status": "offline"
+    },
+    {
+      "serialNumber": "SN-216",
+      "timestamp": "2026-02-03T18:18:57.749Z",
+      "power": 5980,
+      "voltage": 205,
+      "current": "23.64",
+      "temperature": "38.7",
+      "efficiency": "98.05",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-217",
+      "timestamp": "2026-02-03T18:18:57.749Z",
+      "power": 2430,
+      "voltage": 203,
+      "current": "21.38",
+      "temperature": "40.9",
+      "efficiency": "97.02",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-218",
+      "timestamp": "2026-02-03T18:18:57.749Z",
+      "power": 5197,
+      "voltage": 213,
+      "current": "17.89",
+      "temperature": "47.9",
+      "efficiency": "96.79",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-219",
+      "timestamp": "2026-02-03T18:18:57.749Z",
+      "power": 4658,
+      "voltage": 246,
+      "current": "6.19",
+      "temperature": "26.4",
+      "efficiency": "95.81",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-220",
+      "timestamp": "2026-02-03T18:18:59.762Z",
+      "power": 1640,
+      "voltage": 245,
+      "current": "11.01",
+      "temperature": "46.3",
+      "efficiency": "99.93",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-221",
+      "timestamp": "2026-02-03T18:18:59.762Z",
+      "power": 2295,
+      "voltage": 238,
+      "current": "7.06",
+      "temperature": "35.4",
+      "efficiency": "97.45",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-222",
+      "timestamp": "2026-02-03T18:18:59.762Z",
+      "power": 4789,
+      "voltage": 229,
+      "current": "18.42",
+      "temperature": "28.0",
+      "efficiency": "98.38",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-223",
+      "timestamp": "2026-02-03T18:18:59.762Z",
+      "power": 2445,
+      "voltage": 230,
+      "current": "16.05",
+      "temperature": "30.9",
+      "efficiency": "95.24",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-224",
+      "timestamp": "2026-02-03T18:18:59.762Z",
+      "power": 4010,
+      "voltage": 234,
+      "current": "22.99",
+      "temperature": "22.8",
+      "efficiency": "97.20",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-225",
+      "timestamp": "2026-02-03T18:18:59.762Z",
+      "power": 5985,
+      "voltage": 206,
+      "current": "19.12",
+      "temperature": "26.6",
+      "efficiency": "95.01",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-226",
+      "timestamp": "2026-02-03T18:18:59.762Z",
+      "power": 2736,
+      "voltage": 236,
+      "current": "16.31",
+      "temperature": "27.7",
+      "efficiency": "97.54",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-227",
+      "timestamp": "2026-02-03T18:18:59.762Z",
+      "power": 5763,
+      "voltage": 239,
+      "current": "9.62",
+      "temperature": "37.5",
+      "efficiency": "99.14",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-228",
+      "timestamp": "2026-02-03T18:18:59.762Z",
+      "power": 1598,
+      "voltage": 241,
+      "current": "7.23",
+      "temperature": "44.7",
+      "efficiency": "99.60",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-229",
+      "timestamp": "2026-02-03T18:18:59.762Z",
+      "power": 5468,
+      "voltage": 212,
+      "current": "17.22",
+      "temperature": "36.1",
+      "efficiency": "99.21",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-230",
+      "timestamp": "2026-02-03T18:19:01.778Z",
+      "power": 5213,
+      "voltage": 231,
+      "current": "23.64",
+      "temperature": "44.0",
+      "efficiency": "96.95",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-231",
+      "timestamp": "2026-02-03T18:19:01.778Z",
+      "power": 2935,
+      "voltage": 213,
+      "current": "22.31",
+      "temperature": "21.2",
+      "efficiency": "97.25",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-232",
+      "timestamp": "2026-02-03T18:19:01.778Z",
+      "power": 4675,
+      "voltage": 235,
+      "current": "18.65",
+      "temperature": "22.5",
+      "efficiency": "96.43",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-233",
+      "timestamp": "2026-02-03T18:19:01.778Z",
+      "power": 4027,
+      "voltage": 228,
+      "current": "15.02",
+      "temperature": "48.8",
+      "efficiency": "95.45",
+      "status": "offline"
+    },
+    {
+      "serialNumber": "SN-234",
+      "timestamp": "2026-02-03T18:19:01.778Z",
+      "power": 4438,
+      "voltage": 227,
+      "current": "24.30",
+      "temperature": "28.8",
+      "efficiency": "98.95",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-235",
+      "timestamp": "2026-02-03T18:19:01.778Z",
+      "power": 5163,
+      "voltage": 232,
+      "current": "7.57",
+      "temperature": "38.5",
+      "efficiency": "96.13",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-236",
+      "timestamp": "2026-02-03T18:19:01.778Z",
+      "power": 3144,
+      "voltage": 212,
+      "current": "11.11",
+      "temperature": "40.5",
+      "efficiency": "96.12",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-237",
+      "timestamp": "2026-02-03T18:19:01.778Z",
+      "power": 5952,
+      "voltage": 244,
+      "current": "12.29",
+      "temperature": "40.5",
+      "efficiency": "98.64",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-238",
+      "timestamp": "2026-02-03T18:19:01.778Z",
+      "power": 2068,
+      "voltage": 204,
+      "current": "24.50",
+      "temperature": "23.5",
+      "efficiency": "99.37",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-239",
+      "timestamp": "2026-02-03T18:19:01.778Z",
+      "power": 5549,
+      "voltage": 235,
+      "current": "17.14",
+      "temperature": "46.9",
+      "efficiency": "98.24",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-240",
+      "timestamp": "2026-02-03T18:19:03.795Z",
+      "power": 2880,
+      "voltage": 248,
+      "current": "22.13",
+      "temperature": "45.6",
+      "efficiency": "97.45",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-241",
+      "timestamp": "2026-02-03T18:19:03.795Z",
+      "power": 2560,
+      "voltage": 203,
+      "current": "9.22",
+      "temperature": "49.2",
+      "efficiency": "99.65",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-242",
+      "timestamp": "2026-02-03T18:19:03.795Z",
+      "power": 5185,
+      "voltage": 210,
+      "current": "5.56",
+      "temperature": "25.5",
+      "efficiency": "99.14",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-243",
+      "timestamp": "2026-02-03T18:19:03.795Z",
+      "power": 2795,
+      "voltage": 215,
+      "current": "21.27",
+      "temperature": "43.9",
+      "efficiency": "96.59",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-244",
+      "timestamp": "2026-02-03T18:19:03.795Z",
+      "power": 1100,
+      "voltage": 247,
+      "current": "21.45",
+      "temperature": "22.3",
+      "efficiency": "96.60",
+      "status": "offline"
+    },
+    {
+      "serialNumber": "SN-245",
+      "timestamp": "2026-02-03T18:19:03.795Z",
+      "power": 2519,
+      "voltage": 224,
+      "current": "19.84",
+      "temperature": "42.9",
+      "efficiency": "96.93",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-246",
+      "timestamp": "2026-02-03T18:19:03.795Z",
+      "power": 3890,
+      "voltage": 219,
+      "current": "6.91",
+      "temperature": "43.0",
+      "efficiency": "98.97",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-247",
+      "timestamp": "2026-02-03T18:19:03.795Z",
+      "power": 2457,
+      "voltage": 236,
+      "current": "8.56",
+      "temperature": "38.7",
+      "efficiency": "97.22",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-248",
+      "timestamp": "2026-02-03T18:19:03.795Z",
+      "power": 1561,
+      "voltage": 231,
+      "current": "20.52",
+      "temperature": "46.8",
+      "efficiency": "97.25",
+      "status": "offline"
+    },
+    {
+      "serialNumber": "SN-249",
+      "timestamp": "2026-02-03T18:19:03.795Z",
+      "power": 4079,
+      "voltage": 228,
+      "current": "16.48",
+      "temperature": "25.5",
+      "efficiency": "99.04",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-250",
+      "timestamp": "2026-02-03T18:19:05.812Z",
+      "power": 2175,
+      "voltage": 245,
+      "current": "13.22",
+      "temperature": "26.2",
+      "efficiency": "95.42",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-251",
+      "timestamp": "2026-02-03T18:19:05.812Z",
+      "power": 1969,
+      "voltage": 232,
+      "current": "14.08",
+      "temperature": "35.5",
+      "efficiency": "99.92",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-252",
+      "timestamp": "2026-02-03T18:19:05.812Z",
+      "power": 1478,
+      "voltage": 237,
+      "current": "19.08",
+      "temperature": "31.2",
+      "efficiency": "96.72",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-253",
+      "timestamp": "2026-02-03T18:19:05.812Z",
+      "power": 5253,
+      "voltage": 201,
+      "current": "11.87",
+      "temperature": "31.9",
+      "efficiency": "95.20",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-254",
+      "timestamp": "2026-02-03T18:19:05.812Z",
+      "power": 5787,
+      "voltage": 231,
+      "current": "12.55",
+      "temperature": "39.4",
+      "efficiency": "99.19",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-255",
+      "timestamp": "2026-02-03T18:19:05.812Z",
+      "power": 2495,
+      "voltage": 236,
+      "current": "24.35",
+      "temperature": "21.9",
+      "efficiency": "98.91",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-256",
+      "timestamp": "2026-02-03T18:19:05.812Z",
+      "power": 2627,
+      "voltage": 235,
+      "current": "6.08",
+      "temperature": "24.3",
+      "efficiency": "96.74",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-257",
+      "timestamp": "2026-02-03T18:19:05.812Z",
+      "power": 4580,
+      "voltage": 244,
+      "current": "22.43",
+      "temperature": "46.1",
+      "efficiency": "96.22",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-258",
+      "timestamp": "2026-02-03T18:19:05.812Z",
+      "power": 5982,
+      "voltage": 249,
+      "current": "10.02",
+      "temperature": "42.7",
+      "efficiency": "99.24",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-259",
+      "timestamp": "2026-02-03T18:19:05.812Z",
+      "power": 3745,
+      "voltage": 237,
+      "current": "5.05",
+      "temperature": "46.9",
+      "efficiency": "98.94",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-260",
+      "timestamp": "2026-02-03T18:19:07.827Z",
+      "power": 5198,
+      "voltage": 240,
+      "current": "7.76",
+      "temperature": "42.8",
+      "efficiency": "95.58",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-261",
+      "timestamp": "2026-02-03T18:19:07.827Z",
+      "power": 1131,
+      "voltage": 202,
+      "current": "12.96",
+      "temperature": "30.8",
+      "efficiency": "99.77",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-262",
+      "timestamp": "2026-02-03T18:19:07.827Z",
+      "power": 5433,
+      "voltage": 219,
+      "current": "16.16",
+      "temperature": "32.9",
+      "efficiency": "99.08",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-263",
+      "timestamp": "2026-02-03T18:19:07.827Z",
+      "power": 2720,
+      "voltage": 223,
+      "current": "9.80",
+      "temperature": "48.8",
+      "efficiency": "99.60",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-264",
+      "timestamp": "2026-02-03T18:19:07.827Z",
+      "power": 4350,
+      "voltage": 202,
+      "current": "10.38",
+      "temperature": "28.2",
+      "efficiency": "99.31",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-265",
+      "timestamp": "2026-02-03T18:19:07.827Z",
+      "power": 5815,
+      "voltage": 217,
+      "current": "7.43",
+      "temperature": "46.5",
+      "efficiency": "99.41",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-266",
+      "timestamp": "2026-02-03T18:19:07.827Z",
+      "power": 5414,
+      "voltage": 241,
+      "current": "7.70",
+      "temperature": "38.8",
+      "efficiency": "99.52",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-267",
+      "timestamp": "2026-02-03T18:19:07.827Z",
+      "power": 4377,
+      "voltage": 201,
+      "current": "22.75",
+      "temperature": "32.1",
+      "efficiency": "96.94",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-268",
+      "timestamp": "2026-02-03T18:19:07.827Z",
+      "power": 1094,
+      "voltage": 206,
+      "current": "8.27",
+      "temperature": "35.9",
+      "efficiency": "96.60",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-269",
+      "timestamp": "2026-02-03T18:19:07.827Z",
+      "power": 3227,
+      "voltage": 222,
+      "current": "10.11",
+      "temperature": "20.3",
+      "efficiency": "98.40",
+      "status": "offline"
+    },
+    {
+      "serialNumber": "SN-270",
+      "timestamp": "2026-02-03T18:19:09.841Z",
+      "power": 3653,
+      "voltage": 202,
+      "current": "19.11",
+      "temperature": "30.0",
+      "efficiency": "98.35",
+      "status": "offline"
+    },
+    {
+      "serialNumber": "SN-271",
+      "timestamp": "2026-02-03T18:19:09.841Z",
+      "power": 3268,
+      "voltage": 210,
+      "current": "19.88",
+      "temperature": "49.1",
+      "efficiency": "98.13",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-272",
+      "timestamp": "2026-02-03T18:19:09.841Z",
+      "power": 4992,
+      "voltage": 213,
+      "current": "7.67",
+      "temperature": "22.9",
+      "efficiency": "95.79",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-273",
+      "timestamp": "2026-02-03T18:19:09.841Z",
+      "power": 1890,
+      "voltage": 203,
+      "current": "16.01",
+      "temperature": "44.5",
+      "efficiency": "95.04",
+      "status": "offline"
+    },
+    {
+      "serialNumber": "SN-274",
+      "timestamp": "2026-02-03T18:19:09.841Z",
+      "power": 5957,
+      "voltage": 207,
+      "current": "17.70",
+      "temperature": "41.1",
+      "efficiency": "97.44",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-275",
+      "timestamp": "2026-02-03T18:19:09.841Z",
+      "power": 5087,
+      "voltage": 217,
+      "current": "12.84",
+      "temperature": "24.8",
+      "efficiency": "96.34",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-276",
+      "timestamp": "2026-02-03T18:19:09.841Z",
+      "power": 4604,
+      "voltage": 213,
+      "current": "19.30",
+      "temperature": "27.0",
+      "efficiency": "99.32",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-277",
+      "timestamp": "2026-02-03T18:19:09.841Z",
+      "power": 2691,
+      "voltage": 223,
+      "current": "11.86",
+      "temperature": "40.2",
+      "efficiency": "95.72",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-278",
+      "timestamp": "2026-02-03T18:19:09.841Z",
+      "power": 4971,
+      "voltage": 204,
+      "current": "14.52",
+      "temperature": "45.9",
+      "efficiency": "99.43",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-279",
+      "timestamp": "2026-02-03T18:19:09.841Z",
+      "power": 4077,
+      "voltage": 229,
+      "current": "5.74",
+      "temperature": "20.4",
+      "efficiency": "97.27",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-280",
+      "timestamp": "2026-02-03T18:19:11.855Z",
+      "power": 3071,
+      "voltage": 227,
+      "current": "22.84",
+      "temperature": "37.7",
+      "efficiency": "99.59",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-281",
+      "timestamp": "2026-02-03T18:19:11.855Z",
+      "power": 2094,
+      "voltage": 224,
+      "current": "12.61",
+      "temperature": "21.3",
+      "efficiency": "99.77",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-282",
+      "timestamp": "2026-02-03T18:19:11.855Z",
+      "power": 1068,
+      "voltage": 216,
+      "current": "10.45",
+      "temperature": "23.5",
+      "efficiency": "98.08",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-283",
+      "timestamp": "2026-02-03T18:19:11.855Z",
+      "power": 5956,
+      "voltage": 206,
+      "current": "18.00",
+      "temperature": "41.7",
+      "efficiency": "96.87",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-284",
+      "timestamp": "2026-02-03T18:19:11.855Z",
+      "power": 3178,
+      "voltage": 231,
+      "current": "21.50",
+      "temperature": "20.5",
+      "efficiency": "99.92",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-285",
+      "timestamp": "2026-02-03T18:19:11.855Z",
+      "power": 4349,
+      "voltage": 232,
+      "current": "15.21",
+      "temperature": "21.7",
+      "efficiency": "97.70",
+      "status": "offline"
+    },
+    {
+      "serialNumber": "SN-286",
+      "timestamp": "2026-02-03T18:19:11.855Z",
+      "power": 3652,
+      "voltage": 237,
+      "current": "20.32",
+      "temperature": "35.1",
+      "efficiency": "95.40",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-287",
+      "timestamp": "2026-02-03T18:19:11.855Z",
+      "power": 5264,
+      "voltage": 248,
+      "current": "10.48",
+      "temperature": "33.1",
+      "efficiency": "98.11",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-288",
+      "timestamp": "2026-02-03T18:19:11.855Z",
+      "power": 4631,
+      "voltage": 219,
+      "current": "6.71",
+      "temperature": "47.1",
+      "efficiency": "99.13",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-289",
+      "timestamp": "2026-02-03T18:19:11.855Z",
+      "power": 4476,
+      "voltage": 220,
+      "current": "11.50",
+      "temperature": "28.6",
+      "efficiency": "98.80",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-290",
+      "timestamp": "2026-02-03T18:19:13.872Z",
+      "power": 3355,
+      "voltage": 240,
+      "current": "19.56",
+      "temperature": "40.4",
+      "efficiency": "96.23",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-291",
+      "timestamp": "2026-02-03T18:19:13.872Z",
+      "power": 5359,
+      "voltage": 227,
+      "current": "5.15",
+      "temperature": "23.0",
+      "efficiency": "98.21",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-292",
+      "timestamp": "2026-02-03T18:19:13.872Z",
+      "power": 4106,
+      "voltage": 216,
+      "current": "7.87",
+      "temperature": "33.4",
+      "efficiency": "97.78",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-293",
+      "timestamp": "2026-02-03T18:19:13.872Z",
+      "power": 2539,
+      "voltage": 206,
+      "current": "17.61",
+      "temperature": "34.3",
+      "efficiency": "96.21",
+      "status": "offline"
+    },
+    {
+      "serialNumber": "SN-294",
+      "timestamp": "2026-02-03T18:19:13.872Z",
+      "power": 5951,
+      "voltage": 236,
+      "current": "6.55",
+      "temperature": "45.2",
+      "efficiency": "95.81",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-295",
+      "timestamp": "2026-02-03T18:19:13.872Z",
+      "power": 4438,
+      "voltage": 243,
+      "current": "6.55",
+      "temperature": "24.7",
+      "efficiency": "97.75",
+      "status": "offline"
+    },
+    {
+      "serialNumber": "SN-296",
+      "timestamp": "2026-02-03T18:19:13.872Z",
+      "power": 3827,
+      "voltage": 219,
+      "current": "6.09",
+      "temperature": "49.8",
+      "efficiency": "97.50",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-297",
+      "timestamp": "2026-02-03T18:19:13.872Z",
+      "power": 2680,
+      "voltage": 234,
+      "current": "21.09",
+      "temperature": "49.7",
+      "efficiency": "95.10",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-298",
+      "timestamp": "2026-02-03T18:19:13.872Z",
+      "power": 4064,
+      "voltage": 213,
+      "current": "23.14",
+      "temperature": "46.2",
+      "efficiency": "98.78",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-299",
+      "timestamp": "2026-02-03T18:19:13.872Z",
+      "power": 4851,
+      "voltage": 227,
+      "current": "19.90",
+      "temperature": "23.2",
+      "efficiency": "97.25",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-300",
+      "timestamp": "2026-02-03T18:19:15.888Z",
+      "power": 1594,
+      "voltage": 215,
+      "current": "20.57",
+      "temperature": "36.3",
+      "efficiency": "96.39",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-301",
+      "timestamp": "2026-02-03T18:19:15.888Z",
+      "power": 2404,
+      "voltage": 226,
+      "current": "20.31",
+      "temperature": "45.9",
+      "efficiency": "95.18",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-302",
+      "timestamp": "2026-02-03T18:19:15.888Z",
+      "power": 2960,
+      "voltage": 237,
+      "current": "18.55",
+      "temperature": "46.1",
+      "efficiency": "99.31",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-303",
+      "timestamp": "2026-02-03T18:19:15.888Z",
+      "power": 1026,
+      "voltage": 214,
+      "current": "18.35",
+      "temperature": "21.1",
+      "efficiency": "97.47",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-304",
+      "timestamp": "2026-02-03T18:19:15.888Z",
+      "power": 1638,
+      "voltage": 242,
+      "current": "15.64",
+      "temperature": "48.5",
+      "efficiency": "97.93",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-305",
+      "timestamp": "2026-02-03T18:19:15.888Z",
+      "power": 1607,
+      "voltage": 227,
+      "current": "12.31",
+      "temperature": "42.2",
+      "efficiency": "99.68",
+      "status": "offline"
+    },
+    {
+      "serialNumber": "SN-306",
+      "timestamp": "2026-02-03T18:19:15.888Z",
+      "power": 3861,
+      "voltage": 224,
+      "current": "9.20",
+      "temperature": "44.6",
+      "efficiency": "97.85",
+      "status": "offline"
+    },
+    {
+      "serialNumber": "SN-307",
+      "timestamp": "2026-02-03T18:19:15.888Z",
+      "power": 1482,
+      "voltage": 245,
+      "current": "8.70",
+      "temperature": "21.9",
+      "efficiency": "99.93",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-308",
+      "timestamp": "2026-02-03T18:19:15.888Z",
+      "power": 3470,
+      "voltage": 216,
+      "current": "8.48",
+      "temperature": "47.4",
+      "efficiency": "98.63",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-309",
+      "timestamp": "2026-02-03T18:19:15.888Z",
+      "power": 4207,
+      "voltage": 219,
+      "current": "17.97",
+      "temperature": "27.0",
+      "efficiency": "95.74",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-310",
+      "timestamp": "2026-02-03T18:19:17.903Z",
+      "power": 2843,
+      "voltage": 206,
+      "current": "21.08",
+      "temperature": "20.3",
+      "efficiency": "97.76",
+      "status": "offline"
+    },
+    {
+      "serialNumber": "SN-311",
+      "timestamp": "2026-02-03T18:19:17.903Z",
+      "power": 3517,
+      "voltage": 222,
+      "current": "19.78",
+      "temperature": "27.4",
+      "efficiency": "99.48",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-312",
+      "timestamp": "2026-02-03T18:19:17.903Z",
+      "power": 2513,
+      "voltage": 202,
+      "current": "20.62",
+      "temperature": "45.2",
+      "efficiency": "95.59",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-313",
+      "timestamp": "2026-02-03T18:19:17.903Z",
+      "power": 1956,
+      "voltage": 221,
+      "current": "14.32",
+      "temperature": "29.0",
+      "efficiency": "96.80",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-314",
+      "timestamp": "2026-02-03T18:19:17.903Z",
+      "power": 3757,
+      "voltage": 205,
+      "current": "10.89",
+      "temperature": "36.7",
+      "efficiency": "95.32",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-315",
+      "timestamp": "2026-02-03T18:19:17.903Z",
+      "power": 5331,
+      "voltage": 222,
+      "current": "13.10",
+      "temperature": "49.1",
+      "efficiency": "97.95",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-316",
+      "timestamp": "2026-02-03T18:19:17.903Z",
+      "power": 1177,
+      "voltage": 212,
+      "current": "10.43",
+      "temperature": "27.4",
+      "efficiency": "98.67",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-317",
+      "timestamp": "2026-02-03T18:19:17.903Z",
+      "power": 5700,
+      "voltage": 237,
+      "current": "5.36",
+      "temperature": "40.9",
+      "efficiency": "97.91",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-318",
+      "timestamp": "2026-02-03T18:19:17.903Z",
+      "power": 5581,
+      "voltage": 203,
+      "current": "18.58",
+      "temperature": "34.8",
+      "efficiency": "97.44",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-319",
+      "timestamp": "2026-02-03T18:19:17.903Z",
+      "power": 5885,
+      "voltage": 244,
+      "current": "17.70",
+      "temperature": "28.6",
+      "efficiency": "96.90",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-320",
+      "timestamp": "2026-02-03T18:19:19.919Z",
+      "power": 5445,
+      "voltage": 233,
+      "current": "7.38",
+      "temperature": "40.2",
+      "efficiency": "99.96",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-321",
+      "timestamp": "2026-02-03T18:19:19.919Z",
+      "power": 2806,
+      "voltage": 236,
+      "current": "16.06",
+      "temperature": "39.0",
+      "efficiency": "95.38",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-322",
+      "timestamp": "2026-02-03T18:19:19.919Z",
+      "power": 5707,
+      "voltage": 215,
+      "current": "7.39",
+      "temperature": "38.3",
+      "efficiency": "98.89",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-323",
+      "timestamp": "2026-02-03T18:19:19.919Z",
+      "power": 4371,
+      "voltage": 222,
+      "current": "13.74",
+      "temperature": "40.2",
+      "efficiency": "98.83",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-324",
+      "timestamp": "2026-02-03T18:19:19.919Z",
+      "power": 1506,
+      "voltage": 226,
+      "current": "10.79",
+      "temperature": "23.2",
+      "efficiency": "97.72",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-325",
+      "timestamp": "2026-02-03T18:19:19.919Z",
+      "power": 2053,
+      "voltage": 222,
+      "current": "14.38",
+      "temperature": "27.8",
+      "efficiency": "96.59",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-326",
+      "timestamp": "2026-02-03T18:19:19.919Z",
+      "power": 3855,
+      "voltage": 220,
+      "current": "9.68",
+      "temperature": "45.5",
+      "efficiency": "95.16",
+      "status": "offline"
+    },
+    {
+      "serialNumber": "SN-327",
+      "timestamp": "2026-02-03T18:19:19.919Z",
+      "power": 3559,
+      "voltage": 222,
+      "current": "17.66",
+      "temperature": "41.9",
+      "efficiency": "99.43",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-328",
+      "timestamp": "2026-02-03T18:19:19.919Z",
+      "power": 5178,
+      "voltage": 220,
+      "current": "24.97",
+      "temperature": "34.6",
+      "efficiency": "97.60",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-329",
+      "timestamp": "2026-02-03T18:19:19.919Z",
+      "power": 2806,
+      "voltage": 213,
+      "current": "24.26",
+      "temperature": "29.0",
+      "efficiency": "96.79",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-330",
+      "timestamp": "2026-02-03T18:19:21.932Z",
+      "power": 4008,
+      "voltage": 231,
+      "current": "23.75",
+      "temperature": "38.9",
+      "efficiency": "96.93",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-331",
+      "timestamp": "2026-02-03T18:19:21.932Z",
+      "power": 2652,
+      "voltage": 212,
+      "current": "17.75",
+      "temperature": "26.9",
+      "efficiency": "95.15",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-332",
+      "timestamp": "2026-02-03T18:19:21.932Z",
+      "power": 2936,
+      "voltage": 235,
+      "current": "24.41",
+      "temperature": "24.1",
+      "efficiency": "95.64",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-333",
+      "timestamp": "2026-02-03T18:19:21.932Z",
+      "power": 1238,
+      "voltage": 200,
+      "current": "15.92",
+      "temperature": "44.8",
+      "efficiency": "99.16",
+      "status": "offline"
+    },
+    {
+      "serialNumber": "SN-334",
+      "timestamp": "2026-02-03T18:19:21.932Z",
+      "power": 1150,
+      "voltage": 230,
+      "current": "9.83",
+      "temperature": "35.4",
+      "efficiency": "95.23",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-335",
+      "timestamp": "2026-02-03T18:19:21.932Z",
+      "power": 4854,
+      "voltage": 245,
+      "current": "18.86",
+      "temperature": "49.1",
+      "efficiency": "99.43",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-336",
+      "timestamp": "2026-02-03T18:19:21.932Z",
+      "power": 2559,
+      "voltage": 232,
+      "current": "18.90",
+      "temperature": "30.9",
+      "efficiency": "95.11",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-337",
+      "timestamp": "2026-02-03T18:19:21.932Z",
+      "power": 2088,
+      "voltage": 203,
+      "current": "15.64",
+      "temperature": "21.0",
+      "efficiency": "98.40",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-338",
+      "timestamp": "2026-02-03T18:19:21.932Z",
+      "power": 2745,
+      "voltage": 227,
+      "current": "16.85",
+      "temperature": "35.9",
+      "efficiency": "96.18",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-339",
+      "timestamp": "2026-02-03T18:19:21.932Z",
+      "power": 5532,
+      "voltage": 224,
+      "current": "9.85",
+      "temperature": "37.7",
+      "efficiency": "97.51",
+      "status": "offline"
+    },
+    {
+      "serialNumber": "SN-340",
+      "timestamp": "2026-02-03T18:19:23.947Z",
+      "power": 1433,
+      "voltage": 245,
+      "current": "10.46",
+      "temperature": "30.3",
+      "efficiency": "97.33",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-341",
+      "timestamp": "2026-02-03T18:19:23.947Z",
+      "power": 2473,
+      "voltage": 248,
+      "current": "14.88",
+      "temperature": "49.9",
+      "efficiency": "99.19",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-342",
+      "timestamp": "2026-02-03T18:19:23.947Z",
+      "power": 3082,
+      "voltage": 205,
+      "current": "7.86",
+      "temperature": "21.1",
+      "efficiency": "95.91",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-343",
+      "timestamp": "2026-02-03T18:19:23.947Z",
+      "power": 2088,
+      "voltage": 243,
+      "current": "9.99",
+      "temperature": "28.3",
+      "efficiency": "96.87",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-344",
+      "timestamp": "2026-02-03T18:19:23.947Z",
+      "power": 3158,
+      "voltage": 200,
+      "current": "17.40",
+      "temperature": "42.4",
+      "efficiency": "96.99",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-345",
+      "timestamp": "2026-02-03T18:19:23.947Z",
+      "power": 4745,
+      "voltage": 218,
+      "current": "7.13",
+      "temperature": "41.5",
+      "efficiency": "98.02",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-346",
+      "timestamp": "2026-02-03T18:19:23.947Z",
+      "power": 4155,
+      "voltage": 220,
+      "current": "6.92",
+      "temperature": "48.9",
+      "efficiency": "96.47",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-347",
+      "timestamp": "2026-02-03T18:19:23.947Z",
+      "power": 3446,
+      "voltage": 213,
+      "current": "6.12",
+      "temperature": "33.0",
+      "efficiency": "95.24",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-348",
+      "timestamp": "2026-02-03T18:19:23.947Z",
+      "power": 2547,
+      "voltage": 220,
+      "current": "24.45",
+      "temperature": "43.6",
+      "efficiency": "96.62",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-349",
+      "timestamp": "2026-02-03T18:19:23.947Z",
+      "power": 5914,
+      "voltage": 205,
+      "current": "19.96",
+      "temperature": "29.3",
+      "efficiency": "96.81",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-350",
+      "timestamp": "2026-02-03T18:19:25.966Z",
+      "power": 2789,
+      "voltage": 216,
+      "current": "15.17",
+      "temperature": "34.6",
+      "efficiency": "95.84",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-351",
+      "timestamp": "2026-02-03T18:19:25.966Z",
+      "power": 3396,
+      "voltage": 246,
+      "current": "18.87",
+      "temperature": "21.8",
+      "efficiency": "95.81",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-352",
+      "timestamp": "2026-02-03T18:19:25.966Z",
+      "power": 5078,
+      "voltage": 248,
+      "current": "9.85",
+      "temperature": "42.2",
+      "efficiency": "95.22",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-353",
+      "timestamp": "2026-02-03T18:19:25.966Z",
+      "power": 1811,
+      "voltage": 217,
+      "current": "18.25",
+      "temperature": "36.8",
+      "efficiency": "97.50",
+      "status": "offline"
+    },
+    {
+      "serialNumber": "SN-354",
+      "timestamp": "2026-02-03T18:19:25.966Z",
+      "power": 3005,
+      "voltage": 217,
+      "current": "20.42",
+      "temperature": "42.1",
+      "efficiency": "97.70",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-355",
+      "timestamp": "2026-02-03T18:19:25.966Z",
+      "power": 3505,
+      "voltage": 247,
+      "current": "24.01",
+      "temperature": "27.2",
+      "efficiency": "99.92",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-356",
+      "timestamp": "2026-02-03T18:19:25.966Z",
+      "power": 1884,
+      "voltage": 206,
+      "current": "8.39",
+      "temperature": "26.4",
+      "efficiency": "99.48",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-357",
+      "timestamp": "2026-02-03T18:19:25.966Z",
+      "power": 1818,
+      "voltage": 226,
+      "current": "10.95",
+      "temperature": "44.1",
+      "efficiency": "96.38",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-358",
+      "timestamp": "2026-02-03T18:19:25.966Z",
+      "power": 1304,
+      "voltage": 236,
+      "current": "14.61",
+      "temperature": "30.5",
+      "efficiency": "99.83",
+      "status": "offline"
+    },
+    {
+      "serialNumber": "SN-359",
+      "timestamp": "2026-02-03T18:19:25.966Z",
+      "power": 1073,
+      "voltage": 223,
+      "current": "8.49",
+      "temperature": "22.5",
+      "efficiency": "95.85",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-360",
+      "timestamp": "2026-02-03T18:19:27.983Z",
+      "power": 3760,
+      "voltage": 238,
+      "current": "11.36",
+      "temperature": "23.6",
+      "efficiency": "98.49",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-361",
+      "timestamp": "2026-02-03T18:19:27.983Z",
+      "power": 5808,
+      "voltage": 229,
+      "current": "12.23",
+      "temperature": "25.3",
+      "efficiency": "99.73",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-362",
+      "timestamp": "2026-02-03T18:19:27.983Z",
+      "power": 2501,
+      "voltage": 220,
+      "current": "12.39",
+      "temperature": "42.2",
+      "efficiency": "96.54",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-363",
+      "timestamp": "2026-02-03T18:19:27.983Z",
+      "power": 2254,
+      "voltage": 225,
+      "current": "12.67",
+      "temperature": "29.0",
+      "efficiency": "98.28",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-364",
+      "timestamp": "2026-02-03T18:19:27.983Z",
+      "power": 2339,
+      "voltage": 201,
+      "current": "21.49",
+      "temperature": "42.7",
+      "efficiency": "95.88",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-365",
+      "timestamp": "2026-02-03T18:19:27.983Z",
+      "power": 5243,
+      "voltage": 209,
+      "current": "10.68",
+      "temperature": "34.9",
+      "efficiency": "98.99",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-366",
+      "timestamp": "2026-02-03T18:19:27.983Z",
+      "power": 4940,
+      "voltage": 223,
+      "current": "20.61",
+      "temperature": "25.5",
+      "efficiency": "96.99",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-367",
+      "timestamp": "2026-02-03T18:19:27.983Z",
+      "power": 2216,
+      "voltage": 231,
+      "current": "9.83",
+      "temperature": "31.9",
+      "efficiency": "99.73",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-368",
+      "timestamp": "2026-02-03T18:19:27.983Z",
+      "power": 5366,
+      "voltage": 206,
+      "current": "12.46",
+      "temperature": "40.7",
+      "efficiency": "95.97",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-369",
+      "timestamp": "2026-02-03T18:19:27.983Z",
+      "power": 1075,
+      "voltage": 233,
+      "current": "6.03",
+      "temperature": "34.4",
+      "efficiency": "98.81",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-370",
+      "timestamp": "2026-02-03T18:19:29.998Z",
+      "power": 3937,
+      "voltage": 223,
+      "current": "20.68",
+      "temperature": "24.9",
+      "efficiency": "97.59",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-371",
+      "timestamp": "2026-02-03T18:19:29.998Z",
+      "power": 3432,
+      "voltage": 219,
+      "current": "23.39",
+      "temperature": "25.0",
+      "efficiency": "98.69",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-372",
+      "timestamp": "2026-02-03T18:19:29.998Z",
+      "power": 3261,
+      "voltage": 241,
+      "current": "8.60",
+      "temperature": "31.9",
+      "efficiency": "99.66",
+      "status": "offline"
+    },
+    {
+      "serialNumber": "SN-373",
+      "timestamp": "2026-02-03T18:19:29.998Z",
+      "power": 4991,
+      "voltage": 235,
+      "current": "8.01",
+      "temperature": "43.1",
+      "efficiency": "95.91",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-374",
+      "timestamp": "2026-02-03T18:19:29.998Z",
+      "power": 4981,
+      "voltage": 209,
+      "current": "5.53",
+      "temperature": "29.4",
+      "efficiency": "95.56",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-375",
+      "timestamp": "2026-02-03T18:19:29.998Z",
+      "power": 4188,
+      "voltage": 229,
+      "current": "19.43",
+      "temperature": "41.4",
+      "efficiency": "97.34",
+      "status": "offline"
+    },
+    {
+      "serialNumber": "SN-376",
+      "timestamp": "2026-02-03T18:19:29.998Z",
+      "power": 1472,
+      "voltage": 211,
+      "current": "20.30",
+      "temperature": "41.7",
+      "efficiency": "99.77",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-377",
+      "timestamp": "2026-02-03T18:19:29.998Z",
+      "power": 4602,
+      "voltage": 227,
+      "current": "10.73",
+      "temperature": "34.1",
+      "efficiency": "99.88",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-378",
+      "timestamp": "2026-02-03T18:19:29.998Z",
+      "power": 2627,
+      "voltage": 242,
+      "current": "10.43",
+      "temperature": "24.0",
+      "efficiency": "98.05",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-379",
+      "timestamp": "2026-02-03T18:19:29.998Z",
+      "power": 3468,
+      "voltage": 244,
+      "current": "21.61",
+      "temperature": "25.7",
+      "efficiency": "99.51",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-380",
+      "timestamp": "2026-02-03T18:19:32.012Z",
+      "power": 5312,
+      "voltage": 223,
+      "current": "24.56",
+      "temperature": "36.8",
+      "efficiency": "95.79",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-381",
+      "timestamp": "2026-02-03T18:19:32.012Z",
+      "power": 5908,
+      "voltage": 202,
+      "current": "17.10",
+      "temperature": "39.0",
+      "efficiency": "97.41",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-382",
+      "timestamp": "2026-02-03T18:19:32.012Z",
+      "power": 2958,
+      "voltage": 220,
+      "current": "11.71",
+      "temperature": "30.5",
+      "efficiency": "95.95",
+      "status": "offline"
+    },
+    {
+      "serialNumber": "SN-383",
+      "timestamp": "2026-02-03T18:19:32.012Z",
+      "power": 3375,
+      "voltage": 218,
+      "current": "19.30",
+      "temperature": "42.2",
+      "efficiency": "99.03",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-384",
+      "timestamp": "2026-02-03T18:19:32.012Z",
+      "power": 1284,
+      "voltage": 216,
+      "current": "5.59",
+      "temperature": "30.2",
+      "efficiency": "96.04",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-385",
+      "timestamp": "2026-02-03T18:19:32.012Z",
+      "power": 3421,
+      "voltage": 238,
+      "current": "22.22",
+      "temperature": "22.9",
+      "efficiency": "98.77",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-386",
+      "timestamp": "2026-02-03T18:19:32.012Z",
+      "power": 2244,
+      "voltage": 207,
+      "current": "19.22",
+      "temperature": "28.8",
+      "efficiency": "96.36",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-387",
+      "timestamp": "2026-02-03T18:19:32.012Z",
+      "power": 5645,
+      "voltage": 245,
+      "current": "21.91",
+      "temperature": "49.1",
+      "efficiency": "98.18",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-388",
+      "timestamp": "2026-02-03T18:19:32.012Z",
+      "power": 3674,
+      "voltage": 201,
+      "current": "20.57",
+      "temperature": "21.1",
+      "efficiency": "98.43",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-389",
+      "timestamp": "2026-02-03T18:19:32.012Z",
+      "power": 1914,
+      "voltage": 245,
+      "current": "9.83",
+      "temperature": "42.0",
+      "efficiency": "96.58",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-390",
+      "timestamp": "2026-02-03T18:19:34.030Z",
+      "power": 2178,
+      "voltage": 236,
+      "current": "24.37",
+      "temperature": "43.9",
+      "efficiency": "99.56",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-391",
+      "timestamp": "2026-02-03T18:19:34.030Z",
+      "power": 3766,
+      "voltage": 214,
+      "current": "8.81",
+      "temperature": "27.3",
+      "efficiency": "97.19",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-392",
+      "timestamp": "2026-02-03T18:19:34.030Z",
+      "power": 4555,
+      "voltage": 210,
+      "current": "13.19",
+      "temperature": "35.1",
+      "efficiency": "96.36",
+      "status": "offline"
+    },
+    {
+      "serialNumber": "SN-393",
+      "timestamp": "2026-02-03T18:19:34.030Z",
+      "power": 5091,
+      "voltage": 237,
+      "current": "24.62",
+      "temperature": "36.1",
+      "efficiency": "95.77",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-394",
+      "timestamp": "2026-02-03T18:19:34.030Z",
+      "power": 4895,
+      "voltage": 242,
+      "current": "13.03",
+      "temperature": "44.9",
+      "efficiency": "97.03",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-395",
+      "timestamp": "2026-02-03T18:19:34.030Z",
+      "power": 1068,
+      "voltage": 220,
+      "current": "16.74",
+      "temperature": "20.6",
+      "efficiency": "97.19",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-396",
+      "timestamp": "2026-02-03T18:19:34.030Z",
+      "power": 3295,
+      "voltage": 227,
+      "current": "8.64",
+      "temperature": "38.8",
+      "efficiency": "96.21",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-397",
+      "timestamp": "2026-02-03T18:19:34.030Z",
+      "power": 2361,
+      "voltage": 244,
+      "current": "18.34",
+      "temperature": "41.6",
+      "efficiency": "95.23",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-398",
+      "timestamp": "2026-02-03T18:19:34.030Z",
+      "power": 2822,
+      "voltage": 224,
+      "current": "15.45",
+      "temperature": "43.4",
+      "efficiency": "97.88",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-399",
+      "timestamp": "2026-02-03T18:19:34.030Z",
+      "power": 3054,
+      "voltage": 249,
+      "current": "22.68",
+      "temperature": "28.4",
+      "efficiency": "95.39",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-400",
+      "timestamp": "2026-02-03T18:19:36.046Z",
+      "power": 1094,
+      "voltage": 200,
+      "current": "17.01",
+      "temperature": "30.1",
+      "efficiency": "95.20",
+      "status": "offline"
+    },
+    {
+      "serialNumber": "SN-401",
+      "timestamp": "2026-02-03T18:19:36.046Z",
+      "power": 3029,
+      "voltage": 230,
+      "current": "11.59",
+      "temperature": "44.4",
+      "efficiency": "99.75",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-402",
+      "timestamp": "2026-02-03T18:19:36.046Z",
+      "power": 2710,
+      "voltage": 232,
+      "current": "19.09",
+      "temperature": "34.0",
+      "efficiency": "95.28",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-403",
+      "timestamp": "2026-02-03T18:19:36.046Z",
+      "power": 4014,
+      "voltage": 209,
+      "current": "12.85",
+      "temperature": "39.9",
+      "efficiency": "95.43",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-404",
+      "timestamp": "2026-02-03T18:19:36.046Z",
+      "power": 1134,
+      "voltage": 242,
+      "current": "18.44",
+      "temperature": "32.6",
+      "efficiency": "97.56",
+      "status": "offline"
+    },
+    {
+      "serialNumber": "SN-405",
+      "timestamp": "2026-02-03T18:19:36.046Z",
+      "power": 4870,
+      "voltage": 207,
+      "current": "22.45",
+      "temperature": "29.6",
+      "efficiency": "99.24",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-406",
+      "timestamp": "2026-02-03T18:19:36.046Z",
+      "power": 1186,
+      "voltage": 232,
+      "current": "16.65",
+      "temperature": "43.8",
+      "efficiency": "96.59",
+      "status": "offline"
+    },
+    {
+      "serialNumber": "SN-407",
+      "timestamp": "2026-02-03T18:19:36.046Z",
+      "power": 2552,
+      "voltage": 206,
+      "current": "24.32",
+      "temperature": "42.7",
+      "efficiency": "98.35",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-408",
+      "timestamp": "2026-02-03T18:19:36.046Z",
+      "power": 1479,
+      "voltage": 204,
+      "current": "16.42",
+      "temperature": "35.1",
+      "efficiency": "95.61",
+      "status": "offline"
+    },
+    {
+      "serialNumber": "SN-409",
+      "timestamp": "2026-02-03T18:19:36.046Z",
+      "power": 4252,
+      "voltage": 213,
+      "current": "7.99",
+      "temperature": "23.9",
+      "efficiency": "95.77",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-410",
+      "timestamp": "2026-02-03T18:19:38.060Z",
+      "power": 1781,
+      "voltage": 205,
+      "current": "23.37",
+      "temperature": "24.2",
+      "efficiency": "99.91",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-411",
+      "timestamp": "2026-02-03T18:19:38.060Z",
+      "power": 5915,
+      "voltage": 242,
+      "current": "24.12",
+      "temperature": "44.7",
+      "efficiency": "95.10",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-412",
+      "timestamp": "2026-02-03T18:19:38.060Z",
+      "power": 2186,
+      "voltage": 224,
+      "current": "23.31",
+      "temperature": "28.7",
+      "efficiency": "97.79",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-413",
+      "timestamp": "2026-02-03T18:19:38.060Z",
+      "power": 4152,
+      "voltage": 212,
+      "current": "8.55",
+      "temperature": "36.9",
+      "efficiency": "95.10",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-414",
+      "timestamp": "2026-02-03T18:19:38.060Z",
+      "power": 3323,
+      "voltage": 238,
+      "current": "13.54",
+      "temperature": "26.6",
+      "efficiency": "99.69",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-415",
+      "timestamp": "2026-02-03T18:19:38.060Z",
+      "power": 3290,
+      "voltage": 215,
+      "current": "6.38",
+      "temperature": "39.8",
+      "efficiency": "95.78",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-416",
+      "timestamp": "2026-02-03T18:19:38.060Z",
+      "power": 3975,
+      "voltage": 225,
+      "current": "22.70",
+      "temperature": "28.2",
+      "efficiency": "96.18",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-417",
+      "timestamp": "2026-02-03T18:19:38.060Z",
+      "power": 5925,
+      "voltage": 212,
+      "current": "20.92",
+      "temperature": "20.4",
+      "efficiency": "96.14",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-418",
+      "timestamp": "2026-02-03T18:19:38.060Z",
+      "power": 4726,
+      "voltage": 226,
+      "current": "16.38",
+      "temperature": "31.9",
+      "efficiency": "97.15",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-419",
+      "timestamp": "2026-02-03T18:19:38.060Z",
+      "power": 1875,
+      "voltage": 227,
+      "current": "22.70",
+      "temperature": "30.8",
+      "efficiency": "97.44",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-420",
+      "timestamp": "2026-02-03T18:19:40.077Z",
+      "power": 2311,
+      "voltage": 234,
+      "current": "12.43",
+      "temperature": "38.8",
+      "efficiency": "98.81",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-421",
+      "timestamp": "2026-02-03T18:19:40.077Z",
+      "power": 1884,
+      "voltage": 233,
+      "current": "18.07",
+      "temperature": "40.7",
+      "efficiency": "96.94",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-422",
+      "timestamp": "2026-02-03T18:19:40.077Z",
+      "power": 5942,
+      "voltage": 219,
+      "current": "15.68",
+      "temperature": "21.7",
+      "efficiency": "98.61",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-423",
+      "timestamp": "2026-02-03T18:19:40.077Z",
+      "power": 1214,
+      "voltage": 217,
+      "current": "20.40",
+      "temperature": "38.1",
+      "efficiency": "96.79",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-424",
+      "timestamp": "2026-02-03T18:19:40.077Z",
+      "power": 1612,
+      "voltage": 242,
+      "current": "13.78",
+      "temperature": "33.3",
+      "efficiency": "99.56",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-425",
+      "timestamp": "2026-02-03T18:19:40.077Z",
+      "power": 4881,
+      "voltage": 206,
+      "current": "23.29",
+      "temperature": "38.8",
+      "efficiency": "97.97",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-426",
+      "timestamp": "2026-02-03T18:19:40.077Z",
+      "power": 5809,
+      "voltage": 240,
+      "current": "24.50",
+      "temperature": "43.4",
+      "efficiency": "98.08",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-427",
+      "timestamp": "2026-02-03T18:19:40.077Z",
+      "power": 4474,
+      "voltage": 240,
+      "current": "7.86",
+      "temperature": "46.2",
+      "efficiency": "95.67",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-428",
+      "timestamp": "2026-02-03T18:19:40.077Z",
+      "power": 2936,
+      "voltage": 241,
+      "current": "21.18",
+      "temperature": "22.8",
+      "efficiency": "98.93",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-429",
+      "timestamp": "2026-02-03T18:19:40.077Z",
+      "power": 4948,
+      "voltage": 226,
+      "current": "22.12",
+      "temperature": "29.7",
+      "efficiency": "97.58",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-430",
+      "timestamp": "2026-02-03T18:19:42.092Z",
+      "power": 3462,
+      "voltage": 201,
+      "current": "16.40",
+      "temperature": "30.4",
+      "efficiency": "98.83",
+      "status": "offline"
+    },
+    {
+      "serialNumber": "SN-431",
+      "timestamp": "2026-02-03T18:19:42.092Z",
+      "power": 1612,
+      "voltage": 204,
+      "current": "18.17",
+      "temperature": "44.9",
+      "efficiency": "99.67",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-432",
+      "timestamp": "2026-02-03T18:19:42.092Z",
+      "power": 3923,
+      "voltage": 239,
+      "current": "18.56",
+      "temperature": "34.0",
+      "efficiency": "99.45",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-433",
+      "timestamp": "2026-02-03T18:19:42.092Z",
+      "power": 2705,
+      "voltage": 210,
+      "current": "18.05",
+      "temperature": "27.5",
+      "efficiency": "97.19",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-434",
+      "timestamp": "2026-02-03T18:19:42.092Z",
+      "power": 1538,
+      "voltage": 211,
+      "current": "12.37",
+      "temperature": "28.6",
+      "efficiency": "95.70",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-435",
+      "timestamp": "2026-02-03T18:19:42.092Z",
+      "power": 1063,
+      "voltage": 233,
+      "current": "12.04",
+      "temperature": "39.2",
+      "efficiency": "99.97",
+      "status": "offline"
+    },
+    {
+      "serialNumber": "SN-436",
+      "timestamp": "2026-02-03T18:19:42.092Z",
+      "power": 1635,
+      "voltage": 230,
+      "current": "11.48",
+      "temperature": "30.0",
+      "efficiency": "98.47",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-437",
+      "timestamp": "2026-02-03T18:19:42.092Z",
+      "power": 5424,
+      "voltage": 201,
+      "current": "18.53",
+      "temperature": "24.5",
+      "efficiency": "99.79",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-438",
+      "timestamp": "2026-02-03T18:19:42.092Z",
+      "power": 4216,
+      "voltage": 204,
+      "current": "20.49",
+      "temperature": "42.8",
+      "efficiency": "96.22",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-439",
+      "timestamp": "2026-02-03T18:19:42.092Z",
+      "power": 1624,
+      "voltage": 208,
+      "current": "17.41",
+      "temperature": "26.3",
+      "efficiency": "99.79",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-440",
+      "timestamp": "2026-02-03T18:19:44.107Z",
+      "power": 5572,
+      "voltage": 214,
+      "current": "6.38",
+      "temperature": "45.3",
+      "efficiency": "95.84",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-441",
+      "timestamp": "2026-02-03T18:19:44.107Z",
+      "power": 4041,
+      "voltage": 207,
+      "current": "19.43",
+      "temperature": "43.2",
+      "efficiency": "96.22",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-442",
+      "timestamp": "2026-02-03T18:19:44.107Z",
+      "power": 2065,
+      "voltage": 235,
+      "current": "8.14",
+      "temperature": "38.3",
+      "efficiency": "96.50",
+      "status": "offline"
+    },
+    {
+      "serialNumber": "SN-443",
+      "timestamp": "2026-02-03T18:19:44.107Z",
+      "power": 3187,
+      "voltage": 247,
+      "current": "21.63",
+      "temperature": "37.0",
+      "efficiency": "98.34",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-444",
+      "timestamp": "2026-02-03T18:19:44.107Z",
+      "power": 4138,
+      "voltage": 237,
+      "current": "6.61",
+      "temperature": "24.4",
+      "efficiency": "95.38",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-445",
+      "timestamp": "2026-02-03T18:19:44.107Z",
+      "power": 1590,
+      "voltage": 223,
+      "current": "18.11",
+      "temperature": "23.6",
+      "efficiency": "97.31",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-446",
+      "timestamp": "2026-02-03T18:19:44.107Z",
+      "power": 2801,
+      "voltage": 233,
+      "current": "14.11",
+      "temperature": "39.2",
+      "efficiency": "99.79",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-447",
+      "timestamp": "2026-02-03T18:19:44.107Z",
+      "power": 2712,
+      "voltage": 237,
+      "current": "14.48",
+      "temperature": "45.3",
+      "efficiency": "97.88",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-448",
+      "timestamp": "2026-02-03T18:19:44.107Z",
+      "power": 2405,
+      "voltage": 246,
+      "current": "23.01",
+      "temperature": "32.9",
+      "efficiency": "99.92",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-449",
+      "timestamp": "2026-02-03T18:19:44.107Z",
+      "power": 5103,
+      "voltage": 219,
+      "current": "6.84",
+      "temperature": "35.2",
+      "efficiency": "98.55",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-450",
+      "timestamp": "2026-02-03T18:19:46.121Z",
+      "power": 1343,
+      "voltage": 201,
+      "current": "15.38",
+      "temperature": "47.5",
+      "efficiency": "95.53",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-451",
+      "timestamp": "2026-02-03T18:19:46.121Z",
+      "power": 2881,
+      "voltage": 219,
+      "current": "10.26",
+      "temperature": "23.7",
+      "efficiency": "98.93",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-452",
+      "timestamp": "2026-02-03T18:19:46.121Z",
+      "power": 3331,
+      "voltage": 231,
+      "current": "12.52",
+      "temperature": "38.3",
+      "efficiency": "95.08",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-453",
+      "timestamp": "2026-02-03T18:19:46.121Z",
+      "power": 3953,
+      "voltage": 224,
+      "current": "6.35",
+      "temperature": "35.6",
+      "efficiency": "95.33",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-454",
+      "timestamp": "2026-02-03T18:19:46.121Z",
+      "power": 4340,
+      "voltage": 227,
+      "current": "19.42",
+      "temperature": "26.4",
+      "efficiency": "97.69",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-455",
+      "timestamp": "2026-02-03T18:19:46.121Z",
+      "power": 5104,
+      "voltage": 242,
+      "current": "16.17",
+      "temperature": "36.8",
+      "efficiency": "97.47",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-456",
+      "timestamp": "2026-02-03T18:19:46.121Z",
+      "power": 4015,
+      "voltage": 230,
+      "current": "7.69",
+      "temperature": "26.3",
+      "efficiency": "96.86",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-457",
+      "timestamp": "2026-02-03T18:19:46.121Z",
+      "power": 1695,
+      "voltage": 205,
+      "current": "9.69",
+      "temperature": "27.6",
+      "efficiency": "97.33",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-458",
+      "timestamp": "2026-02-03T18:19:46.121Z",
+      "power": 1484,
+      "voltage": 240,
+      "current": "23.90",
+      "temperature": "34.3",
+      "efficiency": "95.67",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-459",
+      "timestamp": "2026-02-03T18:19:46.121Z",
+      "power": 3488,
+      "voltage": 241,
+      "current": "15.89",
+      "temperature": "26.6",
+      "efficiency": "98.31",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-460",
+      "timestamp": "2026-02-03T18:19:48.139Z",
+      "power": 4440,
+      "voltage": 216,
+      "current": "17.44",
+      "temperature": "21.8",
+      "efficiency": "98.00",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-461",
+      "timestamp": "2026-02-03T18:19:48.139Z",
+      "power": 2516,
+      "voltage": 240,
+      "current": "21.37",
+      "temperature": "36.8",
+      "efficiency": "99.57",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-462",
+      "timestamp": "2026-02-03T18:19:48.139Z",
+      "power": 4088,
+      "voltage": 229,
+      "current": "14.98",
+      "temperature": "27.0",
+      "efficiency": "99.45",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-463",
+      "timestamp": "2026-02-03T18:19:48.139Z",
+      "power": 3158,
+      "voltage": 233,
+      "current": "20.41",
+      "temperature": "38.5",
+      "efficiency": "99.59",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-464",
+      "timestamp": "2026-02-03T18:19:48.139Z",
+      "power": 4362,
+      "voltage": 218,
+      "current": "14.87",
+      "temperature": "24.0",
+      "efficiency": "95.08",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-465",
+      "timestamp": "2026-02-03T18:19:48.139Z",
+      "power": 1737,
+      "voltage": 215,
+      "current": "16.42",
+      "temperature": "23.9",
+      "efficiency": "97.79",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-466",
+      "timestamp": "2026-02-03T18:19:48.139Z",
+      "power": 1019,
+      "voltage": 223,
+      "current": "21.95",
+      "temperature": "49.6",
+      "efficiency": "95.67",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-467",
+      "timestamp": "2026-02-03T18:19:48.139Z",
+      "power": 5689,
+      "voltage": 205,
+      "current": "20.32",
+      "temperature": "34.2",
+      "efficiency": "96.05",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-468",
+      "timestamp": "2026-02-03T18:19:48.139Z",
+      "power": 4018,
+      "voltage": 222,
+      "current": "22.57",
+      "temperature": "26.6",
+      "efficiency": "98.14",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-469",
+      "timestamp": "2026-02-03T18:19:48.139Z",
+      "power": 4202,
+      "voltage": 213,
+      "current": "22.23",
+      "temperature": "28.4",
+      "efficiency": "97.60",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-470",
+      "timestamp": "2026-02-03T18:19:50.154Z",
+      "power": 4635,
+      "voltage": 227,
+      "current": "17.58",
+      "temperature": "37.3",
+      "efficiency": "99.57",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-471",
+      "timestamp": "2026-02-03T18:19:50.154Z",
+      "power": 3740,
+      "voltage": 200,
+      "current": "11.24",
+      "temperature": "48.1",
+      "efficiency": "96.01",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-472",
+      "timestamp": "2026-02-03T18:19:50.154Z",
+      "power": 3550,
+      "voltage": 241,
+      "current": "23.32",
+      "temperature": "39.8",
+      "efficiency": "99.07",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-473",
+      "timestamp": "2026-02-03T18:19:50.154Z",
+      "power": 2637,
+      "voltage": 224,
+      "current": "8.67",
+      "temperature": "33.0",
+      "efficiency": "96.90",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-474",
+      "timestamp": "2026-02-03T18:19:50.154Z",
+      "power": 2536,
+      "voltage": 232,
+      "current": "8.77",
+      "temperature": "45.0",
+      "efficiency": "98.80",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-475",
+      "timestamp": "2026-02-03T18:19:50.154Z",
+      "power": 2333,
+      "voltage": 232,
+      "current": "7.71",
+      "temperature": "28.2",
+      "efficiency": "99.19",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-476",
+      "timestamp": "2026-02-03T18:19:50.154Z",
+      "power": 1196,
+      "voltage": 203,
+      "current": "6.27",
+      "temperature": "32.0",
+      "efficiency": "99.10",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-477",
+      "timestamp": "2026-02-03T18:19:50.154Z",
+      "power": 2930,
+      "voltage": 227,
+      "current": "19.55",
+      "temperature": "41.9",
+      "efficiency": "95.87",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-478",
+      "timestamp": "2026-02-03T18:19:50.154Z",
+      "power": 4365,
+      "voltage": 209,
+      "current": "14.57",
+      "temperature": "49.0",
+      "efficiency": "95.51",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-479",
+      "timestamp": "2026-02-03T18:19:50.154Z",
+      "power": 4412,
+      "voltage": 236,
+      "current": "21.21",
+      "temperature": "30.3",
+      "efficiency": "99.55",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-480",
+      "timestamp": "2026-02-03T18:19:52.170Z",
+      "power": 1108,
+      "voltage": 203,
+      "current": "24.16",
+      "temperature": "49.2",
+      "efficiency": "99.84",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-481",
+      "timestamp": "2026-02-03T18:19:52.170Z",
+      "power": 4718,
+      "voltage": 223,
+      "current": "20.12",
+      "temperature": "26.2",
+      "efficiency": "95.35",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-482",
+      "timestamp": "2026-02-03T18:19:52.170Z",
+      "power": 3909,
+      "voltage": 220,
+      "current": "21.92",
+      "temperature": "20.8",
+      "efficiency": "95.25",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-483",
+      "timestamp": "2026-02-03T18:19:52.170Z",
+      "power": 1206,
+      "voltage": 221,
+      "current": "24.61",
+      "temperature": "45.2",
+      "efficiency": "95.27",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-484",
+      "timestamp": "2026-02-03T18:19:52.170Z",
+      "power": 1297,
+      "voltage": 220,
+      "current": "22.98",
+      "temperature": "34.9",
+      "efficiency": "95.03",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-485",
+      "timestamp": "2026-02-03T18:19:52.170Z",
+      "power": 3221,
+      "voltage": 235,
+      "current": "11.35",
+      "temperature": "22.0",
+      "efficiency": "95.54",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-486",
+      "timestamp": "2026-02-03T18:19:52.170Z",
+      "power": 5341,
+      "voltage": 237,
+      "current": "15.63",
+      "temperature": "35.8",
+      "efficiency": "99.50",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-487",
+      "timestamp": "2026-02-03T18:19:52.170Z",
+      "power": 4251,
+      "voltage": 229,
+      "current": "12.46",
+      "temperature": "34.3",
+      "efficiency": "98.81",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-488",
+      "timestamp": "2026-02-03T18:19:52.170Z",
+      "power": 1059,
+      "voltage": 241,
+      "current": "15.53",
+      "temperature": "45.9",
+      "efficiency": "96.93",
+      "status": "offline"
+    },
+    {
+      "serialNumber": "SN-489",
+      "timestamp": "2026-02-03T18:19:52.170Z",
+      "power": 3222,
+      "voltage": 216,
+      "current": "5.76",
+      "temperature": "24.1",
+      "efficiency": "95.48",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-490",
+      "timestamp": "2026-02-03T18:19:54.185Z",
+      "power": 2333,
+      "voltage": 221,
+      "current": "24.80",
+      "temperature": "49.0",
+      "efficiency": "95.33",
+      "status": "offline"
+    },
+    {
+      "serialNumber": "SN-491",
+      "timestamp": "2026-02-03T18:19:54.185Z",
+      "power": 5502,
+      "voltage": 212,
+      "current": "12.79",
+      "temperature": "25.2",
+      "efficiency": "95.53",
+      "status": "offline"
+    },
+    {
+      "serialNumber": "SN-492",
+      "timestamp": "2026-02-03T18:19:54.185Z",
+      "power": 2282,
+      "voltage": 237,
+      "current": "10.16",
+      "temperature": "33.7",
+      "efficiency": "99.85",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-493",
+      "timestamp": "2026-02-03T18:19:54.185Z",
+      "power": 4664,
+      "voltage": 240,
+      "current": "10.30",
+      "temperature": "25.9",
+      "efficiency": "96.27",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-494",
+      "timestamp": "2026-02-03T18:19:54.185Z",
+      "power": 4784,
+      "voltage": 240,
+      "current": "15.52",
+      "temperature": "47.4",
+      "efficiency": "97.89",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-495",
+      "timestamp": "2026-02-03T18:19:54.185Z",
+      "power": 2209,
+      "voltage": 212,
+      "current": "20.27",
+      "temperature": "31.9",
+      "efficiency": "99.09",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-496",
+      "timestamp": "2026-02-03T18:19:54.185Z",
+      "power": 4716,
+      "voltage": 213,
+      "current": "14.54",
+      "temperature": "33.8",
+      "efficiency": "98.88",
+      "status": "offline"
+    },
+    {
+      "serialNumber": "SN-497",
+      "timestamp": "2026-02-03T18:19:54.185Z",
+      "power": 1027,
+      "voltage": 243,
+      "current": "15.26",
+      "temperature": "38.9",
+      "efficiency": "95.36",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-498",
+      "timestamp": "2026-02-03T18:19:54.185Z",
+      "power": 1429,
+      "voltage": 204,
+      "current": "20.66",
+      "temperature": "46.5",
+      "efficiency": "95.19",
+      "status": "online"
+    },
+    {
+      "serialNumber": "SN-499",
+      "timestamp": "2026-02-03T18:19:54.185Z",
+      "power": 3836,
+      "voltage": 221,
+      "current": "17.39",
+      "temperature": "26.9",
+      "efficiency": "99.82",
+      "status": "online"
+    }
+  ],
+  "errors": [],
+  "statistics": {
+    "totalRequests": 50,
+    "successfulRequests": 50,
+    "failedRequests": 0,
+    "retriedRequests": 49,
+    "totalDevices": 500,
+    "totalBatches": 50,
+    "duration": 99907,
+    "averageRequestTime": 1998.14
+  }
+}
